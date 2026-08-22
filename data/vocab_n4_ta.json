@@ -1,1 +1,611 @@
-[{"wikipediaIndex": 361, "kana": "~だい", "kanji": null, "classification": [], "definition": "fare"}, {"wikipediaIndex": 362, "kana": "たいいん", "kanji": null, "classification": [], "definition": "discharge from hospital"}, {"wikipediaIndex": 363, "kana": "だいがくせい", "kanji": null, "classification": ["pronoun"], "definition": "college student"}, {"wikipediaIndex": 364, "kana": "だいじ", "kanji": null, "classification": [], "definition": "important, serious"}, {"wikipediaIndex": 365, "kana": "だいたい", "kanji": null, "classification": ["noun"], "definition": "outline, main point"}, {"wikipediaIndex": 366, "kana": "タイプ", "kanji": null, "classification": ["noun"], "definition": "type"}, {"wikipediaIndex": 367, "kana": "だいぶ (副詞)", "kanji": null, "classification": [], "definition": "very much"}, {"wikipediaIndex": 368, "kana": "たいふう", "kanji": null, "classification": ["noun"], "definition": "typhoon"}, {"wikipediaIndex": 369, "kana": "たおれる", "kanji": null, "classification": [], "definition": "to fall, to collapse"}, {"wikipediaIndex": 370, "kana": "だから (接続詞)", "kanji": null, "classification": [], "definition": "so that, therefore"}, {"wikipediaIndex": 371, "kana": "たしか", "kanji": null, "classification": [], "definition": "sure, certain"}, {"wikipediaIndex": 372, "kana": "たす", "kanji": null, "classification": [], "definition": "to add (numbers)"}, {"wikipediaIndex": 373, "kana": "~だす", "kanji": null, "classification": [], "definition": ""}, {"wikipediaIndex": 374, "kana": "たりる", "kanji": null, "classification": [], "definition": "to be enough"}, {"wikipediaIndex": 375, "kana": "たずねる", "kanji": null, "classification": [], "definition": "to visit, to pay a visit to"}, {"wikipediaIndex": 376, "kana": "ただしい", "kanji": null, "classification": ["adjective"], "definition": "correct"}, {"wikipediaIndex": 377, "kana": "たたみ", "kanji": null, "classification": ["noun"], "definition": "tatami"}, {"wikipediaIndex": 378, "kana": "たてる", "kanji": null, "classification": [], "definition": "to stand up, to set up"}, {"wikipediaIndex": 379, "kana": "たてる", "kanji": null, "classification": [], "definition": "to build, to construct"}, {"wikipediaIndex": 380, "kana": "たとえば", "kanji": null, "classification": ["adverb"], "definition": "for example"}, {"wikipediaIndex": 381, "kana": "たな", "kanji": null, "classification": ["noun"], "definition": "shelf, rack"}, {"wikipediaIndex": 382, "kana": "たのしむ", "kanji": null, "classification": [], "definition": "to enjoy (oneself)"}, {"wikipediaIndex": 383, "kana": "たまに", "kanji": null, "classification": ["adverb"], "definition": "occasionally, once in a while"}, {"wikipediaIndex": 384, "kana": "ため", "kanji": null, "classification": [], "definition": "good"}, {"wikipediaIndex": 385, "kana": "だめ", "kanji": null, "classification": [], "definition": "no good, useless"}, {"wikipediaIndex": 386, "kana": "だんせい", "kanji": null, "classification": [], "definition": "man, male"}, {"wikipediaIndex": 387, "kana": "だんぼう", "kanji": null, "classification": ["noun"], "definition": "heater"}, {"wikipediaIndex": 388, "kana": "ち", "kanji": null, "classification": ["noun"], "definition": "blood"}, {"wikipediaIndex": 389, "kana": "ちいさな", "kanji": null, "classification": [], "definition": "small"}, {"wikipediaIndex": 390, "kana": "ちから", "kanji": null, "classification": ["noun"], "definition": "strength, force"}, {"wikipediaIndex": 391, "kana": "ちっとも", "kanji": null, "classification": ["adverb"], "definition": "not at all"}, {"wikipediaIndex": 392, "kana": "~ちゃん", "kanji": null, "classification": ["suffix"], "definition": "suffix for familiar person"}, {"wikipediaIndex": 393, "kana": "ちゅうい", "kanji": null, "classification": ["noun"], "definition": "caution, warning"}, {"wikipediaIndex": 394, "kana": "ちゅうがっこう", "kanji": null, "classification": ["pronoun"], "definition": "middle schooler"}, {"wikipediaIndex": 395, "kana": "ちゅうしゃ", "kanji": null, "classification": ["noun"], "definition": "injection"}, {"wikipediaIndex": 396, "kana": "ちゅうしゃじょう", "kanji": null, "classification": ["noun"], "definition": "parking lot"}, {"wikipediaIndex": 397, "kana": "ちり", "kanji": null, "classification": ["noun"], "definition": "geography"}, {"wikipediaIndex": 398, "kana": "~ついて", "kanji": null, "classification": [], "definition": "about, of"}, {"wikipediaIndex": 399, "kana": "つかまえる", "kanji": null, "classification": [], "definition": "to catch, to arrest"}, {"wikipediaIndex": 400, "kana": "つき", "kanji": null, "classification": ["noun"], "definition": "moon"}, {"wikipediaIndex": 401, "kana": "~つき", "kanji": null, "classification": [], "definition": "month"}, {"wikipediaIndex": 402, "kana": "つく (電灯がつく)", "kanji": null, "classification": [], "definition": "to turn on"}, {"wikipediaIndex": 403, "kana": "つける (気をつける)", "kanji": null, "classification": [], "definition": "to turn on"}, {"wikipediaIndex": 404, "kana": "つける", "kanji": null, "classification": [], "definition": "to soak in, to dip"}, {"wikipediaIndex": 405, "kana": "つごう", "kanji": null, "classification": [], "definition": "circumstances, condition"}, {"wikipediaIndex": 406, "kana": "つたえる", "kanji": null, "classification": [], "definition": "to tell"}, {"wikipediaIndex": 407, "kana": "つづく", "kanji": null, "classification": [], "definition": "to continue"}, {"wikipediaIndex": 408, "kana": "つづける", "kanji": null, "classification": [], "definition": "to continue"}, {"wikipediaIndex": 409, "kana": "つつむ", "kanji": null, "classification": [], "definition": "to wrap up, to pack"}, {"wikipediaIndex": 410, "kana": "つま", "kanji": null, "classification": ["pronoun"], "definition": "wife"}, {"wikipediaIndex": 411, "kana": "つもり", "kanji": null, "classification": ["noun"], "definition": "intention, plan"}, {"wikipediaIndex": 412, "kana": "つる", "kanji": null, "classification": [], "definition": "to fish, to catch"}, {"wikipediaIndex": 413, "kana": "つれる", "kanji": null, "classification": [], "definition": "to bring along, to go with"}, {"wikipediaIndex": 414, "kana": "ていねい", "kanji": null, "classification": [], "definition": "polite, courteous"}, {"wikipediaIndex": 415, "kana": "テキスト", "kanji": null, "classification": ["noun"], "definition": "text"}, {"wikipediaIndex": 416, "kana": "てきとう", "kanji": null, "classification": [], "definition": "suitable, proper"}, {"wikipediaIndex": 417, "kana": "できる (銀行ができる)", "kanji": null, "classification": [], "definition": ""}, {"wikipediaIndex": 418, "kana": "できるだけ", "kanji": null, "classification": [], "definition": "as much as possible"}, {"wikipediaIndex": 419, "kana": "てつだう", "kanji": null, "classification": [], "definition": "to help, to assist"}, {"wikipediaIndex": 420, "kana": "テニスコート", "kanji": null, "classification": ["noun"], "definition": "tennis court"}, {"wikipediaIndex": 421, "kana": "てぶくろ", "kanji": null, "classification": ["noun"], "definition": "glove"}, {"wikipediaIndex": 422, "kana": "てら", "kanji": null, "classification": ["noun"], "definition": "temple"}, {"wikipediaIndex": 423, "kana": "てん", "kanji": null, "classification": ["noun"], "definition": "point"}, {"wikipediaIndex": 424, "kana": "てんいん", "kanji": null, "classification": ["pronoun"], "definition": "store clerk"}, {"wikipediaIndex": 425, "kana": "てんきよほう", "kanji": null, "classification": ["noun"], "definition": "weather forecast"}, {"wikipediaIndex": 426, "kana": "でんとう", "kanji": null, "classification": ["noun"], "definition": "(electric) light"}, {"wikipediaIndex": 427, "kana": "でんぽう", "kanji": null, "classification": ["noun"], "definition": "telegram"}, {"wikipediaIndex": 428, "kana": "てんらんかい", "kanji": null, "classification": ["noun"], "definition": "exhibition"}, {"wikipediaIndex": 429, "kana": "どうぐ", "kanji": null, "classification": ["noun"], "definition": "tool, instrument"}, {"wikipediaIndex": 430, "kana": "とうとう", "kanji": null, "classification": ["adverb"], "definition": "finally"}, {"wikipediaIndex": 431, "kana": "どうぶつえん", "kanji": null, "classification": ["noun"], "definition": "zoo"}, {"wikipediaIndex": 432, "kana": "とおく", "kanji": null, "classification": [], "definition": "far away, distant"}, {"wikipediaIndex": 433, "kana": "とおり", "kanji": null, "classification": ["noun"], "definition": "street, avenue"}, {"wikipediaIndex": 434, "kana": "とおる", "kanji": null, "classification": [], "definition": "to pass"}, {"wikipediaIndex": 435, "kana": "~とき", "kanji": null, "classification": [], "definition": "when, during"}, {"wikipediaIndex": 436, "kana": "とくに", "kanji": null, "classification": ["adverb"], "definition": "particularly, especially"}, {"wikipediaIndex": 437, "kana": "とくべつ", "kanji": null, "classification": [], "definition": "special, exceptional"}, {"wikipediaIndex": 438, "kana": "とこや", "kanji": null, "classification": ["noun"], "definition": "barbershop"}, {"wikipediaIndex": 439, "kana": "とし", "kanji": null, "classification": ["noun"], "definition": "year"}, {"wikipediaIndex": 440, "kana": "とちゅう", "kanji": null, "classification": [], "definition": "on the way"}, {"wikipediaIndex": 441, "kana": "とっきゅう", "kanji": null, "classification": ["noun"], "definition": "limited express train"}, {"wikipediaIndex": 442, "kana": "どっち", "kanji": null, "classification": [], "definition": "which, where"}, {"wikipediaIndex": 443, "kana": "とどける", "kanji": null, "classification": [], "definition": "to deliver, to report"}, {"wikipediaIndex": 444, "kana": "とまる", "kanji": null, "classification": [], "definition": "to stay at (places)"}, {"wikipediaIndex": 445, "kana": "とめる", "kanji": null, "classification": [], "definition": "to stop"}, {"wikipediaIndex": 446, "kana": "とりかえる", "kanji": null, "classification": [], "definition": "to exchange, to replace"}, {"wikipediaIndex": 447, "kana": "どろぼう", "kanji": null, "classification": ["pronoun"], "definition": "thief, robber"}]
+[
+  {
+    "wikipediaIndex": 361,
+    "kana": "~だい",
+    "kanji": null,
+    "classification": [],
+    "definition": "fare"
+  },
+  {
+    "wikipediaIndex": 362,
+    "kana": "たいいん",
+    "kanji": null,
+    "classification": [],
+    "definition": "discharge from hospital"
+  },
+  {
+    "wikipediaIndex": 363,
+    "kana": "だいがくせい",
+    "kanji": null,
+    "classification": ["pronoun"],
+    "definition": "college student"
+  },
+  {
+    "wikipediaIndex": 364,
+    "kana": "だいじ",
+    "kanji": null,
+    "classification": [],
+    "definition": "important, serious"
+  },
+  {
+    "wikipediaIndex": 365,
+    "kana": "だいたい",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "outline, main point"
+  },
+  {
+    "wikipediaIndex": 366,
+    "kana": "タイプ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "type"
+  },
+  {
+    "wikipediaIndex": 367,
+    "kana": "だいぶ (副詞)",
+    "kanji": null,
+    "classification": [],
+    "definition": "very much"
+  },
+  {
+    "wikipediaIndex": 368,
+    "kana": "たいふう",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "typhoon"
+  },
+  {
+    "wikipediaIndex": 369,
+    "kana": "たおれる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to fall, to collapse"
+  },
+  {
+    "wikipediaIndex": 370,
+    "kana": "だから (接続詞)",
+    "kanji": null,
+    "classification": [],
+    "definition": "so that, therefore"
+  },
+  {
+    "wikipediaIndex": 371,
+    "kana": "たしか",
+    "kanji": null,
+    "classification": [],
+    "definition": "sure, certain"
+  },
+  {
+    "wikipediaIndex": 372,
+    "kana": "たす",
+    "kanji": null,
+    "classification": [],
+    "definition": "to add (numbers)"
+  },
+  {
+    "wikipediaIndex": 373,
+    "kana": "~だす",
+    "kanji": null,
+    "classification": [],
+    "definition": ""
+  },
+  {
+    "wikipediaIndex": 374,
+    "kana": "たりる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to be enough"
+  },
+  {
+    "wikipediaIndex": 375,
+    "kana": "たずねる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to visit, to pay a visit to"
+  },
+  {
+    "wikipediaIndex": 376,
+    "kana": "ただしい",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "correct"
+  },
+  {
+    "wikipediaIndex": 377,
+    "kana": "たたみ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "tatami"
+  },
+  {
+    "wikipediaIndex": 378,
+    "kana": "たてる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to stand up, to set up"
+  },
+  {
+    "wikipediaIndex": 379,
+    "kana": "たてる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to build, to construct"
+  },
+  {
+    "wikipediaIndex": 380,
+    "kana": "たとえば",
+    "kanji": null,
+    "classification": ["adverb"],
+    "definition": "for example"
+  },
+  {
+    "wikipediaIndex": 381,
+    "kana": "たな",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "shelf, rack"
+  },
+  {
+    "wikipediaIndex": 382,
+    "kana": "たのしむ",
+    "kanji": null,
+    "classification": [],
+    "definition": "to enjoy (oneself)"
+  },
+  {
+    "wikipediaIndex": 383,
+    "kana": "たまに",
+    "kanji": null,
+    "classification": ["adverb"],
+    "definition": "occasionally, once in a while"
+  },
+  {
+    "wikipediaIndex": 384,
+    "kana": "ため",
+    "kanji": null,
+    "classification": [],
+    "definition": "good"
+  },
+  {
+    "wikipediaIndex": 385,
+    "kana": "だめ",
+    "kanji": null,
+    "classification": [],
+    "definition": "no good, useless"
+  },
+  {
+    "wikipediaIndex": 386,
+    "kana": "だんせい",
+    "kanji": null,
+    "classification": [],
+    "definition": "man, male"
+  },
+  {
+    "wikipediaIndex": 387,
+    "kana": "だんぼう",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "heater"
+  },
+  {
+    "wikipediaIndex": 388,
+    "kana": "ち",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "blood"
+  },
+  {
+    "wikipediaIndex": 389,
+    "kana": "ちいさな",
+    "kanji": null,
+    "classification": [],
+    "definition": "small"
+  },
+  {
+    "wikipediaIndex": 390,
+    "kana": "ちから",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "strength, force"
+  },
+  {
+    "wikipediaIndex": 391,
+    "kana": "ちっとも",
+    "kanji": null,
+    "classification": ["adverb"],
+    "definition": "not at all"
+  },
+  {
+    "wikipediaIndex": 392,
+    "kana": "~ちゃん",
+    "kanji": null,
+    "classification": ["suffix"],
+    "definition": "suffix for familiar person"
+  },
+  {
+    "wikipediaIndex": 393,
+    "kana": "ちゅうい",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "caution, warning"
+  },
+  {
+    "wikipediaIndex": 394,
+    "kana": "ちゅうがっこう",
+    "kanji": null,
+    "classification": ["pronoun"],
+    "definition": "middle schooler"
+  },
+  {
+    "wikipediaIndex": 395,
+    "kana": "ちゅうしゃ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "injection"
+  },
+  {
+    "wikipediaIndex": 396,
+    "kana": "ちゅうしゃじょう",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "parking lot"
+  },
+  {
+    "wikipediaIndex": 397,
+    "kana": "ちり",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "geography"
+  },
+  {
+    "wikipediaIndex": 398,
+    "kana": "~ついて",
+    "kanji": null,
+    "classification": [],
+    "definition": "about, of"
+  },
+  {
+    "wikipediaIndex": 399,
+    "kana": "つかまえる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to catch, to arrest"
+  },
+  {
+    "wikipediaIndex": 400,
+    "kana": "つき",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "moon"
+  },
+  {
+    "wikipediaIndex": 401,
+    "kana": "~つき",
+    "kanji": null,
+    "classification": [],
+    "definition": "month"
+  },
+  {
+    "wikipediaIndex": 402,
+    "kana": "つく (電灯がつく)",
+    "kanji": null,
+    "classification": [],
+    "definition": "to turn on"
+  },
+  {
+    "wikipediaIndex": 403,
+    "kana": "つける (気をつける)",
+    "kanji": null,
+    "classification": [],
+    "definition": "to turn on"
+  },
+  {
+    "wikipediaIndex": 404,
+    "kana": "つける",
+    "kanji": null,
+    "classification": [],
+    "definition": "to soak in, to dip"
+  },
+  {
+    "wikipediaIndex": 405,
+    "kana": "つごう",
+    "kanji": null,
+    "classification": [],
+    "definition": "circumstances, condition"
+  },
+  {
+    "wikipediaIndex": 406,
+    "kana": "つたえる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to tell"
+  },
+  {
+    "wikipediaIndex": 407,
+    "kana": "つづく",
+    "kanji": null,
+    "classification": [],
+    "definition": "to continue"
+  },
+  {
+    "wikipediaIndex": 408,
+    "kana": "つづける",
+    "kanji": null,
+    "classification": [],
+    "definition": "to continue"
+  },
+  {
+    "wikipediaIndex": 409,
+    "kana": "つつむ",
+    "kanji": null,
+    "classification": [],
+    "definition": "to wrap up, to pack"
+  },
+  {
+    "wikipediaIndex": 410,
+    "kana": "つま",
+    "kanji": null,
+    "classification": ["pronoun"],
+    "definition": "wife"
+  },
+  {
+    "wikipediaIndex": 411,
+    "kana": "つもり",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "intention, plan"
+  },
+  {
+    "wikipediaIndex": 412,
+    "kana": "つる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to fish, to catch"
+  },
+  {
+    "wikipediaIndex": 413,
+    "kana": "つれる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to bring along, to go with"
+  },
+  {
+    "wikipediaIndex": 414,
+    "kana": "ていねい",
+    "kanji": null,
+    "classification": [],
+    "definition": "polite, courteous"
+  },
+  {
+    "wikipediaIndex": 415,
+    "kana": "テキスト",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "text"
+  },
+  {
+    "wikipediaIndex": 416,
+    "kana": "てきとう",
+    "kanji": null,
+    "classification": [],
+    "definition": "suitable, proper"
+  },
+  {
+    "wikipediaIndex": 417,
+    "kana": "できる (銀行ができる)",
+    "kanji": null,
+    "classification": [],
+    "definition": ""
+  },
+  {
+    "wikipediaIndex": 418,
+    "kana": "できるだけ",
+    "kanji": null,
+    "classification": [],
+    "definition": "as much as possible"
+  },
+  {
+    "wikipediaIndex": 419,
+    "kana": "てつだう",
+    "kanji": null,
+    "classification": [],
+    "definition": "to help, to assist"
+  },
+  {
+    "wikipediaIndex": 420,
+    "kana": "テニスコート",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "tennis court"
+  },
+  {
+    "wikipediaIndex": 421,
+    "kana": "てぶくろ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "glove"
+  },
+  {
+    "wikipediaIndex": 422,
+    "kana": "てら",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "temple"
+  },
+  {
+    "wikipediaIndex": 423,
+    "kana": "てん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "point"
+  },
+  {
+    "wikipediaIndex": 424,
+    "kana": "てんいん",
+    "kanji": null,
+    "classification": ["pronoun"],
+    "definition": "store clerk"
+  },
+  {
+    "wikipediaIndex": 425,
+    "kana": "てんきよほう",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "weather forecast"
+  },
+  {
+    "wikipediaIndex": 426,
+    "kana": "でんとう",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "(electric) light"
+  },
+  {
+    "wikipediaIndex": 427,
+    "kana": "でんぽう",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "telegram"
+  },
+  {
+    "wikipediaIndex": 428,
+    "kana": "てんらんかい",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "exhibition"
+  },
+  {
+    "wikipediaIndex": 429,
+    "kana": "どうぐ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "tool, instrument"
+  },
+  {
+    "wikipediaIndex": 430,
+    "kana": "とうとう",
+    "kanji": null,
+    "classification": ["adverb"],
+    "definition": "finally"
+  },
+  {
+    "wikipediaIndex": 431,
+    "kana": "どうぶつえん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "zoo"
+  },
+  {
+    "wikipediaIndex": 432,
+    "kana": "とおく",
+    "kanji": null,
+    "classification": [],
+    "definition": "far away, distant"
+  },
+  {
+    "wikipediaIndex": 433,
+    "kana": "とおり",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "street, avenue"
+  },
+  {
+    "wikipediaIndex": 434,
+    "kana": "とおる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to pass"
+  },
+  {
+    "wikipediaIndex": 435,
+    "kana": "~とき",
+    "kanji": null,
+    "classification": [],
+    "definition": "when, during"
+  },
+  {
+    "wikipediaIndex": 436,
+    "kana": "とくに",
+    "kanji": null,
+    "classification": ["adverb"],
+    "definition": "particularly, especially"
+  },
+  {
+    "wikipediaIndex": 437,
+    "kana": "とくべつ",
+    "kanji": null,
+    "classification": [],
+    "definition": "special, exceptional"
+  },
+  {
+    "wikipediaIndex": 438,
+    "kana": "とこや",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "barbershop"
+  },
+  {
+    "wikipediaIndex": 439,
+    "kana": "とし",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "year"
+  },
+  {
+    "wikipediaIndex": 440,
+    "kana": "とちゅう",
+    "kanji": null,
+    "classification": [],
+    "definition": "on the way"
+  },
+  {
+    "wikipediaIndex": 441,
+    "kana": "とっきゅう",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "limited express train"
+  },
+  {
+    "wikipediaIndex": 442,
+    "kana": "どっち",
+    "kanji": null,
+    "classification": [],
+    "definition": "which, where"
+  },
+  {
+    "wikipediaIndex": 443,
+    "kana": "とどける",
+    "kanji": null,
+    "classification": [],
+    "definition": "to deliver, to report"
+  },
+  {
+    "wikipediaIndex": 444,
+    "kana": "とまる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to stay at (places)"
+  },
+  {
+    "wikipediaIndex": 445,
+    "kana": "とめる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to stop"
+  },
+  {
+    "wikipediaIndex": 446,
+    "kana": "とりかえる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to exchange, to replace"
+  },
+  {
+    "wikipediaIndex": 447,
+    "kana": "どろぼう",
+    "kanji": null,
+    "classification": ["pronoun"],
+    "definition": "thief, robber"
+  }
+]

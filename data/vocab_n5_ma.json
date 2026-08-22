@@ -1,1 +1,387 @@
-[{"wikipediaIndex": 577, "kana": "~まい", "kanji": "~枚", "classification": ["suffix"], "definition": "counter for flat things"}, {"wikipediaIndex": 578, "kana": "まいあさ", "kanji": "毎朝", "classification": ["adjective"], "definition": "every morning"}, {"wikipediaIndex": 579, "kana": "まいげつ", "kanji": "毎月", "classification": ["adjective"], "definition": "every month/each month/monthly"}, {"wikipediaIndex": 580, "kana": "まいつき", "kanji": "毎月", "classification": ["adjective"], "definition": "every month/each month/monthly"}, {"wikipediaIndex": 581, "kana": "まいしゅう", "kanji": "毎週", "classification": ["adjective"], "definition": "every week"}, {"wikipediaIndex": 582, "kana": "まいにち", "kanji": "毎日", "classification": ["adjective"], "definition": "every day"}, {"wikipediaIndex": 583, "kana": "まいねん", "kanji": "毎年", "classification": ["adjective"], "definition": "every year/yearly/annually"}, {"wikipediaIndex": 584, "kana": "まいとし", "kanji": "毎年", "classification": ["adjective"], "definition": "every year/yearly/annually"}, {"wikipediaIndex": 585, "kana": "まいばん", "kanji": "毎晩", "classification": ["adjective"], "definition": "every night"}, {"wikipediaIndex": 586, "kana": "まえ", "kanji": "前", "classification": [], "definition": "(1) before/in front/fore part/ago/previously (2) head (of a line) (3) in the presence of/lady (so-and-so) (4) (five minutes) to (5) helping/portion"}, {"wikipediaIndex": 587, "kana": "~まえ", "kanji": "~前", "classification": ["suffix"], "definition": "before/in front"}, {"wikipediaIndex": 588, "kana": "まがる", "kanji": "曲る", "classification": ["type I verb"], "definition": "to turn/to bend"}, {"wikipediaIndex": 589, "kana": "まずい", "kanji": null, "classification": ["adjective"], "definition": "unappetising/unpleasant (taste, appearance, situation)/ugly/unskilful/awkward/bungling/unwise/untimely"}, {"wikipediaIndex": 590, "kana": "また", "kanji": null, "classification": ["conjunction"], "definition": "again/and"}, {"wikipediaIndex": 591, "kana": "まだ", "kanji": null, "classification": [], "definition": "yet/still/more/besides"}, {"wikipediaIndex": 592, "kana": "まち", "kanji": "町", "classification": ["noun"], "definition": "(1) town (2) street/road"}, {"wikipediaIndex": 593, "kana": "まつ", "kanji": "待つ", "classification": ["type I verb"], "definition": "to wait"}, {"wikipediaIndex": 594, "kana": "まっすぐ", "kanji": null, "classification": ["adjective"], "definition": "straight (ahead)/direct/upright/erect/honest/frank"}, {"wikipediaIndex": 595, "kana": "マッチ", "kanji": null, "classification": ["noun"], "definition": "match"}, {"wikipediaIndex": 596, "kana": "まど", "kanji": "窓", "classification": ["noun"], "definition": "window"}, {"wikipediaIndex": 597, "kana": "まるい", "kanji": "丸い", "classification": ["adjective"], "definition": "round/circular/spherical"}, {"wikipediaIndex": 598, "kana": "まるい", "kanji": "円い", "classification": ["adjective"], "definition": "round/circular/spherical"}, {"wikipediaIndex": 599, "kana": "まん", "kanji": "万", "classification": ["noun"], "definition": "10,000/ten thousand/myriads/all/everything"}, {"wikipediaIndex": 600, "kana": "まんねんひつ", "kanji": "万年筆", "classification": ["noun"], "definition": "fountain pen"}, {"wikipediaIndex": 601, "kana": "みがく", "kanji": "磨く", "classification": ["type I verb"], "definition": "to polish/to shine/to brush/to refine/to improve"}, {"wikipediaIndex": 602, "kana": "みぎ", "kanji": "右", "classification": ["noun"], "definition": "right hand side"}, {"wikipediaIndex": 603, "kana": "みじかい", "kanji": "短い", "classification": ["adjective"], "definition": "short"}, {"wikipediaIndex": 604, "kana": "みず", "kanji": "水", "classification": ["noun"], "definition": "water"}, {"wikipediaIndex": 605, "kana": "みせ", "kanji": "店", "classification": ["noun"], "definition": "store/shop/establishment"}, {"wikipediaIndex": 606, "kana": "みせる", "kanji": "見せる", "classification": ["type I verb"], "definition": "to show/to display"}, {"wikipediaIndex": 607, "kana": "みち", "kanji": "道", "classification": ["noun"], "definition": "road/street/way/method"}, {"wikipediaIndex": 608, "kana": "みっか", "kanji": "三日", "classification": ["noun"], "definition": "three days/the third day (of the month)"}, {"wikipediaIndex": 609, "kana": "みっつ", "kanji": "三つ", "classification": ["noun"], "definition": "three"}, {"wikipediaIndex": 610, "kana": "みなさん", "kanji": "皆さん", "classification": ["noun"], "definition": "everyone"}, {"wikipediaIndex": 611, "kana": "みなみ", "kanji": "南", "classification": ["noun"], "definition": "south/proceeding south"}, {"wikipediaIndex": 612, "kana": "みみ", "kanji": "耳", "classification": ["noun"], "definition": "ear"}, {"wikipediaIndex": 613, "kana": "みる", "kanji": "見る", "classification": ["type I verb"], "definition": "to see/to watch"}, {"wikipediaIndex": 614, "kana": "みんな", "kanji": null, "classification": [], "definition": "all/everyone/everybody"}, {"wikipediaIndex": 615, "kana": "むいか", "kanji": "六日", "classification": ["noun"], "definition": "six days/the sixth day (of the month)"}, {"wikipediaIndex": 616, "kana": "むこう", "kanji": "向こう", "classification": ["noun"], "definition": "beyond/over there/opposite direction/the other party"}, {"wikipediaIndex": 617, "kana": "むずかしい", "kanji": "難しい", "classification": ["adjective"], "definition": "difficult"}, {"wikipediaIndex": 618, "kana": "むっつ", "kanji": "六つ", "classification": ["noun"], "definition": "six"}, {"wikipediaIndex": 619, "kana": "め", "kanji": "目", "classification": ["noun"], "definition": "eye"}, {"wikipediaIndex": 620, "kana": "メートル", "kanji": null, "classification": ["noun"], "definition": "meter"}, {"wikipediaIndex": 621, "kana": "めがね", "kanji": "眼鏡", "classification": ["noun"], "definition": "glasses"}, {"wikipediaIndex": 622, "kana": "もう （もう、帰りました）", "kanji": null, "classification": [], "definition": "already/soon/more/again"}, {"wikipediaIndex": 623, "kana": "もう （もう一度）", "kanji": null, "classification": [], "definition": "already/soon/more/again"}, {"wikipediaIndex": 624, "kana": "もくようび", "kanji": "木曜日", "classification": ["noun"], "definition": "thursday"}, {"wikipediaIndex": 625, "kana": "もしもし", "kanji": null, "classification": ["interjection"], "definition": "hello (on phone)"}, {"wikipediaIndex": 626, "kana": "もちろん", "kanji": null, "classification": [], "definition": "of course/certainly/naturally"}, {"wikipediaIndex": 627, "kana": "もつ", "kanji": "持つ", "classification": ["type I verb"], "definition": "(1) to hold/to carry (2) to possess"}, {"wikipediaIndex": 628, "kana": "もっと", "kanji": null, "classification": [], "definition": "more/longer/farther"}, {"wikipediaIndex": 629, "kana": "もの", "kanji": "物", "classification": ["noun"], "definition": "thing/object"}, {"wikipediaIndex": 630, "kana": "もん", "kanji": "門", "classification": ["noun"], "definition": "gate"}, {"wikipediaIndex": 631, "kana": "もんだい", "kanji": "問題", "classification": ["noun"], "definition": "problem/question"}]
+[
+  {
+    "wikipediaIndex": 577,
+    "kana": "~まい",
+    "kanji": "~枚",
+    "classification": ["suffix"],
+    "definition": "counter for flat things"
+  },
+  {
+    "wikipediaIndex": 578,
+    "kana": "まいあさ",
+    "kanji": "毎朝",
+    "classification": ["adjective"],
+    "definition": "every morning"
+  },
+  {
+    "wikipediaIndex": 579,
+    "kana": "まいげつ",
+    "kanji": "毎月",
+    "classification": ["adjective"],
+    "definition": "every month/each month/monthly"
+  },
+  {
+    "wikipediaIndex": 580,
+    "kana": "まいつき",
+    "kanji": "毎月",
+    "classification": ["adjective"],
+    "definition": "every month/each month/monthly"
+  },
+  {
+    "wikipediaIndex": 581,
+    "kana": "まいしゅう",
+    "kanji": "毎週",
+    "classification": ["adjective"],
+    "definition": "every week"
+  },
+  {
+    "wikipediaIndex": 582,
+    "kana": "まいにち",
+    "kanji": "毎日",
+    "classification": ["adjective"],
+    "definition": "every day"
+  },
+  {
+    "wikipediaIndex": 583,
+    "kana": "まいねん",
+    "kanji": "毎年",
+    "classification": ["adjective"],
+    "definition": "every year/yearly/annually"
+  },
+  {
+    "wikipediaIndex": 584,
+    "kana": "まいとし",
+    "kanji": "毎年",
+    "classification": ["adjective"],
+    "definition": "every year/yearly/annually"
+  },
+  {
+    "wikipediaIndex": 585,
+    "kana": "まいばん",
+    "kanji": "毎晩",
+    "classification": ["adjective"],
+    "definition": "every night"
+  },
+  {
+    "wikipediaIndex": 586,
+    "kana": "まえ",
+    "kanji": "前",
+    "classification": [],
+    "definition": "(1) before/in front/fore part/ago/previously (2) head (of a line) (3) in the presence of/lady (so-and-so) (4) (five minutes) to (5) helping/portion"
+  },
+  {
+    "wikipediaIndex": 587,
+    "kana": "~まえ",
+    "kanji": "~前",
+    "classification": ["suffix"],
+    "definition": "before/in front"
+  },
+  {
+    "wikipediaIndex": 588,
+    "kana": "まがる",
+    "kanji": "曲る",
+    "classification": ["type I verb"],
+    "definition": "to turn/to bend"
+  },
+  {
+    "wikipediaIndex": 589,
+    "kana": "まずい",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "unappetising/unpleasant (taste, appearance, situation)/ugly/unskilful/awkward/bungling/unwise/untimely"
+  },
+  {
+    "wikipediaIndex": 590,
+    "kana": "また",
+    "kanji": null,
+    "classification": ["conjunction"],
+    "definition": "again/and"
+  },
+  {
+    "wikipediaIndex": 591,
+    "kana": "まだ",
+    "kanji": null,
+    "classification": [],
+    "definition": "yet/still/more/besides"
+  },
+  {
+    "wikipediaIndex": 592,
+    "kana": "まち",
+    "kanji": "町",
+    "classification": ["noun"],
+    "definition": "(1) town (2) street/road"
+  },
+  {
+    "wikipediaIndex": 593,
+    "kana": "まつ",
+    "kanji": "待つ",
+    "classification": ["type I verb"],
+    "definition": "to wait"
+  },
+  {
+    "wikipediaIndex": 594,
+    "kana": "まっすぐ",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "straight (ahead)/direct/upright/erect/honest/frank"
+  },
+  {
+    "wikipediaIndex": 595,
+    "kana": "マッチ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "match"
+  },
+  {
+    "wikipediaIndex": 596,
+    "kana": "まど",
+    "kanji": "窓",
+    "classification": ["noun"],
+    "definition": "window"
+  },
+  {
+    "wikipediaIndex": 597,
+    "kana": "まるい",
+    "kanji": "丸い",
+    "classification": ["adjective"],
+    "definition": "round/circular/spherical"
+  },
+  {
+    "wikipediaIndex": 598,
+    "kana": "まるい",
+    "kanji": "円い",
+    "classification": ["adjective"],
+    "definition": "round/circular/spherical"
+  },
+  {
+    "wikipediaIndex": 599,
+    "kana": "まん",
+    "kanji": "万",
+    "classification": ["noun"],
+    "definition": "10,000/ten thousand/myriads/all/everything"
+  },
+  {
+    "wikipediaIndex": 600,
+    "kana": "まんねんひつ",
+    "kanji": "万年筆",
+    "classification": ["noun"],
+    "definition": "fountain pen"
+  },
+  {
+    "wikipediaIndex": 601,
+    "kana": "みがく",
+    "kanji": "磨く",
+    "classification": ["type I verb"],
+    "definition": "to polish/to shine/to brush/to refine/to improve"
+  },
+  {
+    "wikipediaIndex": 602,
+    "kana": "みぎ",
+    "kanji": "右",
+    "classification": ["noun"],
+    "definition": "right hand side"
+  },
+  {
+    "wikipediaIndex": 603,
+    "kana": "みじかい",
+    "kanji": "短い",
+    "classification": ["adjective"],
+    "definition": "short"
+  },
+  {
+    "wikipediaIndex": 604,
+    "kana": "みず",
+    "kanji": "水",
+    "classification": ["noun"],
+    "definition": "water"
+  },
+  {
+    "wikipediaIndex": 605,
+    "kana": "みせ",
+    "kanji": "店",
+    "classification": ["noun"],
+    "definition": "store/shop/establishment"
+  },
+  {
+    "wikipediaIndex": 606,
+    "kana": "みせる",
+    "kanji": "見せる",
+    "classification": ["type I verb"],
+    "definition": "to show/to display"
+  },
+  {
+    "wikipediaIndex": 607,
+    "kana": "みち",
+    "kanji": "道",
+    "classification": ["noun"],
+    "definition": "road/street/way/method"
+  },
+  {
+    "wikipediaIndex": 608,
+    "kana": "みっか",
+    "kanji": "三日",
+    "classification": ["noun"],
+    "definition": "three days/the third day (of the month)"
+  },
+  {
+    "wikipediaIndex": 609,
+    "kana": "みっつ",
+    "kanji": "三つ",
+    "classification": ["noun"],
+    "definition": "three"
+  },
+  {
+    "wikipediaIndex": 610,
+    "kana": "みなさん",
+    "kanji": "皆さん",
+    "classification": ["noun"],
+    "definition": "everyone"
+  },
+  {
+    "wikipediaIndex": 611,
+    "kana": "みなみ",
+    "kanji": "南",
+    "classification": ["noun"],
+    "definition": "south/proceeding south"
+  },
+  {
+    "wikipediaIndex": 612,
+    "kana": "みみ",
+    "kanji": "耳",
+    "classification": ["noun"],
+    "definition": "ear"
+  },
+  {
+    "wikipediaIndex": 613,
+    "kana": "みる",
+    "kanji": "見る",
+    "classification": ["type I verb"],
+    "definition": "to see/to watch"
+  },
+  {
+    "wikipediaIndex": 614,
+    "kana": "みんな",
+    "kanji": null,
+    "classification": [],
+    "definition": "all/everyone/everybody"
+  },
+  {
+    "wikipediaIndex": 615,
+    "kana": "むいか",
+    "kanji": "六日",
+    "classification": ["noun"],
+    "definition": "six days/the sixth day (of the month)"
+  },
+  {
+    "wikipediaIndex": 616,
+    "kana": "むこう",
+    "kanji": "向こう",
+    "classification": ["noun"],
+    "definition": "beyond/over there/opposite direction/the other party"
+  },
+  {
+    "wikipediaIndex": 617,
+    "kana": "むずかしい",
+    "kanji": "難しい",
+    "classification": ["adjective"],
+    "definition": "difficult"
+  },
+  {
+    "wikipediaIndex": 618,
+    "kana": "むっつ",
+    "kanji": "六つ",
+    "classification": ["noun"],
+    "definition": "six"
+  },
+  {
+    "wikipediaIndex": 619,
+    "kana": "め",
+    "kanji": "目",
+    "classification": ["noun"],
+    "definition": "eye"
+  },
+  {
+    "wikipediaIndex": 620,
+    "kana": "メートル",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "meter"
+  },
+  {
+    "wikipediaIndex": 621,
+    "kana": "めがね",
+    "kanji": "眼鏡",
+    "classification": ["noun"],
+    "definition": "glasses"
+  },
+  {
+    "wikipediaIndex": 622,
+    "kana": "もう （もう、帰りました）",
+    "kanji": null,
+    "classification": [],
+    "definition": "already/soon/more/again"
+  },
+  {
+    "wikipediaIndex": 623,
+    "kana": "もう （もう一度）",
+    "kanji": null,
+    "classification": [],
+    "definition": "already/soon/more/again"
+  },
+  {
+    "wikipediaIndex": 624,
+    "kana": "もくようび",
+    "kanji": "木曜日",
+    "classification": ["noun"],
+    "definition": "thursday"
+  },
+  {
+    "wikipediaIndex": 625,
+    "kana": "もしもし",
+    "kanji": null,
+    "classification": ["interjection"],
+    "definition": "hello (on phone)"
+  },
+  {
+    "wikipediaIndex": 626,
+    "kana": "もちろん",
+    "kanji": null,
+    "classification": [],
+    "definition": "of course/certainly/naturally"
+  },
+  {
+    "wikipediaIndex": 627,
+    "kana": "もつ",
+    "kanji": "持つ",
+    "classification": ["type I verb"],
+    "definition": "(1) to hold/to carry (2) to possess"
+  },
+  {
+    "wikipediaIndex": 628,
+    "kana": "もっと",
+    "kanji": null,
+    "classification": [],
+    "definition": "more/longer/farther"
+  },
+  {
+    "wikipediaIndex": 629,
+    "kana": "もの",
+    "kanji": "物",
+    "classification": ["noun"],
+    "definition": "thing/object"
+  },
+  {
+    "wikipediaIndex": 630,
+    "kana": "もん",
+    "kanji": "門",
+    "classification": ["noun"],
+    "definition": "gate"
+  },
+  {
+    "wikipediaIndex": 631,
+    "kana": "もんだい",
+    "kanji": "問題",
+    "classification": ["noun"],
+    "definition": "problem/question"
+  }
+]

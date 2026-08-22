@@ -1,1 +1,254 @@
-[{"wikipediaIndex": 448, "kana": "なおす", "kanji": null, "classification": [], "definition": "to cure, to repair"}, {"wikipediaIndex": 449, "kana": "なおる", "kanji": null, "classification": [], "definition": "to be cured, to be repaired"}, {"wikipediaIndex": 450, "kana": "なおる", "kanji": null, "classification": [], "definition": "to be cured, to be repaired"}, {"wikipediaIndex": 451, "kana": "なかなか", "kanji": null, "classification": [], "definition": "considerably"}, {"wikipediaIndex": 452, "kana": "~ながら", "kanji": null, "classification": [], "definition": "while, during"}, {"wikipediaIndex": 453, "kana": "なく", "kanji": null, "classification": [], "definition": "to cry"}, {"wikipediaIndex": 454, "kana": "なくす", "kanji": null, "classification": [], "definition": "to lose (something)"}, {"wikipediaIndex": 455, "kana": "なくなる", "kanji": null, "classification": [], "definition": "to be lost, to be missing"}, {"wikipediaIndex": 456, "kana": "なくなる", "kanji": null, "classification": [], "definition": "to die"}, {"wikipediaIndex": 457, "kana": "なげる", "kanji": null, "classification": [], "definition": "to throw, to give up"}, {"wikipediaIndex": 458, "kana": "なさる", "kanji": null, "classification": [], "definition": "to do"}, {"wikipediaIndex": 459, "kana": "なぜ", "kanji": null, "classification": [], "definition": "why, how"}, {"wikipediaIndex": 460, "kana": "なる", "kanji": null, "classification": [], "definition": "to sound, to ring"}, {"wikipediaIndex": 461, "kana": "なるべく", "kanji": null, "classification": ["adverb"], "definition": "as much as possible"}, {"wikipediaIndex": 462, "kana": "なるほど", "kanji": null, "classification": [], "definition": "I see"}, {"wikipediaIndex": 463, "kana": "なれる", "kanji": null, "classification": [], "definition": "to get used to"}, {"wikipediaIndex": 464, "kana": "にがい", "kanji": null, "classification": [], "definition": "bitter"}, {"wikipediaIndex": 465, "kana": "~にくい", "kanji": null, "classification": [], "definition": "difficult to (do)"}, {"wikipediaIndex": 466, "kana": "にげる", "kanji": null, "classification": [], "definition": "to escape, to run away"}, {"wikipediaIndex": 467, "kana": "にっき", "kanji": null, "classification": ["noun"], "definition": "diary, journal"}, {"wikipediaIndex": 468, "kana": "にゅういん", "kanji": null, "classification": ["noun"], "definition": "hospitalization"}, {"wikipediaIndex": 469, "kana": "にゅうがく", "kanji": null, "classification": ["noun"], "definition": "school admission"}, {"wikipediaIndex": 470, "kana": "にる", "kanji": null, "classification": [], "definition": "to resemble"}, {"wikipediaIndex": 471, "kana": "にんぎょう", "kanji": null, "classification": ["noun"], "definition": "doll"}, {"wikipediaIndex": 472, "kana": "ぬすむ", "kanji": null, "classification": [], "definition": "to steal, to rob"}, {"wikipediaIndex": 473, "kana": "ぬる", "kanji": null, "classification": [], "definition": "to paint, to spread"}, {"wikipediaIndex": 474, "kana": "ぬれる", "kanji": null, "classification": [], "definition": "to get wet"}, {"wikipediaIndex": 475, "kana": "ねだん", "kanji": null, "classification": ["noun"], "definition": "price, cost"}, {"wikipediaIndex": 476, "kana": "ねつ", "kanji": null, "classification": ["noun"], "definition": "fever"}, {"wikipediaIndex": 477, "kana": "ねっしん", "kanji": null, "classification": [], "definition": "passionately"}, {"wikipediaIndex": 478, "kana": "ねむい", "kanji": null, "classification": [], "definition": "sleepy"}, {"wikipediaIndex": 479, "kana": "ねむる", "kanji": null, "classification": [], "definition": "to sleep"}, {"wikipediaIndex": 480, "kana": "のこる", "kanji": null, "classification": [], "definition": "to remain"}, {"wikipediaIndex": 481, "kana": "のど", "kanji": null, "classification": ["noun"], "definition": "throat"}, {"wikipediaIndex": 482, "kana": "のりかえる", "kanji": null, "classification": [], "definition": "to transfer (train), to change (bus)"}, {"wikipediaIndex": 483, "kana": "のりもの", "kanji": null, "classification": ["noun"], "definition": "vehicle, transport"}]
+[
+  {
+    "wikipediaIndex": 448,
+    "kana": "なおす",
+    "kanji": null,
+    "classification": [],
+    "definition": "to cure, to repair"
+  },
+  {
+    "wikipediaIndex": 449,
+    "kana": "なおる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to be cured, to be repaired"
+  },
+  {
+    "wikipediaIndex": 450,
+    "kana": "なおる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to be cured, to be repaired"
+  },
+  {
+    "wikipediaIndex": 451,
+    "kana": "なかなか",
+    "kanji": null,
+    "classification": [],
+    "definition": "considerably"
+  },
+  {
+    "wikipediaIndex": 452,
+    "kana": "~ながら",
+    "kanji": null,
+    "classification": [],
+    "definition": "while, during"
+  },
+  {
+    "wikipediaIndex": 453,
+    "kana": "なく",
+    "kanji": null,
+    "classification": [],
+    "definition": "to cry"
+  },
+  {
+    "wikipediaIndex": 454,
+    "kana": "なくす",
+    "kanji": null,
+    "classification": [],
+    "definition": "to lose (something)"
+  },
+  {
+    "wikipediaIndex": 455,
+    "kana": "なくなる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to be lost, to be missing"
+  },
+  {
+    "wikipediaIndex": 456,
+    "kana": "なくなる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to die"
+  },
+  {
+    "wikipediaIndex": 457,
+    "kana": "なげる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to throw, to give up"
+  },
+  {
+    "wikipediaIndex": 458,
+    "kana": "なさる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to do"
+  },
+  {
+    "wikipediaIndex": 459,
+    "kana": "なぜ",
+    "kanji": null,
+    "classification": [],
+    "definition": "why, how"
+  },
+  {
+    "wikipediaIndex": 460,
+    "kana": "なる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to sound, to ring"
+  },
+  {
+    "wikipediaIndex": 461,
+    "kana": "なるべく",
+    "kanji": null,
+    "classification": ["adverb"],
+    "definition": "as much as possible"
+  },
+  {
+    "wikipediaIndex": 462,
+    "kana": "なるほど",
+    "kanji": null,
+    "classification": [],
+    "definition": "I see"
+  },
+  {
+    "wikipediaIndex": 463,
+    "kana": "なれる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to get used to"
+  },
+  {
+    "wikipediaIndex": 464,
+    "kana": "にがい",
+    "kanji": null,
+    "classification": [],
+    "definition": "bitter"
+  },
+  {
+    "wikipediaIndex": 465,
+    "kana": "~にくい",
+    "kanji": null,
+    "classification": [],
+    "definition": "difficult to (do)"
+  },
+  {
+    "wikipediaIndex": 466,
+    "kana": "にげる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to escape, to run away"
+  },
+  {
+    "wikipediaIndex": 467,
+    "kana": "にっき",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "diary, journal"
+  },
+  {
+    "wikipediaIndex": 468,
+    "kana": "にゅういん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "hospitalization"
+  },
+  {
+    "wikipediaIndex": 469,
+    "kana": "にゅうがく",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "school admission"
+  },
+  {
+    "wikipediaIndex": 470,
+    "kana": "にる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to resemble"
+  },
+  {
+    "wikipediaIndex": 471,
+    "kana": "にんぎょう",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "doll"
+  },
+  {
+    "wikipediaIndex": 472,
+    "kana": "ぬすむ",
+    "kanji": null,
+    "classification": [],
+    "definition": "to steal, to rob"
+  },
+  {
+    "wikipediaIndex": 473,
+    "kana": "ぬる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to paint, to spread"
+  },
+  {
+    "wikipediaIndex": 474,
+    "kana": "ぬれる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to get wet"
+  },
+  {
+    "wikipediaIndex": 475,
+    "kana": "ねだん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "price, cost"
+  },
+  {
+    "wikipediaIndex": 476,
+    "kana": "ねつ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "fever"
+  },
+  {
+    "wikipediaIndex": 477,
+    "kana": "ねっしん",
+    "kanji": null,
+    "classification": [],
+    "definition": "passionately"
+  },
+  {
+    "wikipediaIndex": 478,
+    "kana": "ねむい",
+    "kanji": null,
+    "classification": [],
+    "definition": "sleepy"
+  },
+  {
+    "wikipediaIndex": 479,
+    "kana": "ねむる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to sleep"
+  },
+  {
+    "wikipediaIndex": 480,
+    "kana": "のこる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to remain"
+  },
+  {
+    "wikipediaIndex": 481,
+    "kana": "のど",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "throat"
+  },
+  {
+    "wikipediaIndex": 482,
+    "kana": "のりかえる",
+    "kanji": null,
+    "classification": [],
+    "definition": "to transfer (train), to change (bus)"
+  },
+  {
+    "wikipediaIndex": 483,
+    "kana": "のりもの",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "vehicle, transport"
+  }
+]
