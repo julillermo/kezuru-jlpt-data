@@ -1,0 +1,4804 @@
+[
+  {
+    "wikipediaIndex": 1,
+    "kana": "ああ",
+    "kanji": null,
+    "classification": ["interjection"],
+    "definition": "Oh!, Ah!"
+  },
+  {
+    "wikipediaIndex": 2,
+    "kana": "あう",
+    "kanji": "会う",
+    "classification": ["type I verb"],
+    "definition": "meet"
+  },
+  {
+    "wikipediaIndex": 3,
+    "kana": "あおい",
+    "kanji": "青い",
+    "classification": ["adjective"],
+    "definition": "blue"
+  },
+  {
+    "wikipediaIndex": 4,
+    "kana": "あかい",
+    "kanji": "赤い",
+    "classification": ["adjective"],
+    "definition": "red"
+  },
+  {
+    "wikipediaIndex": 5,
+    "kana": "あかるい",
+    "kanji": "明るい",
+    "classification": ["adjective"],
+    "definition": "bright"
+  },
+  {
+    "wikipediaIndex": 6,
+    "kana": "あき",
+    "kanji": "秋",
+    "classification": ["noun"],
+    "definition": "autumn, fall"
+  },
+  {
+    "wikipediaIndex": 7,
+    "kana": "あく",
+    "kanji": "開く",
+    "classification": ["type I verb"],
+    "definition": "open, to be opened"
+  },
+  {
+    "wikipediaIndex": 8,
+    "kana": "あける",
+    "kanji": "開ける",
+    "classification": ["type II verb"],
+    "definition": "to open"
+  },
+  {
+    "wikipediaIndex": 9,
+    "kana": "あげる",
+    "kanji": "上げる",
+    "classification": ["type II verb"],
+    "definition": "raise, give"
+  },
+  {
+    "wikipediaIndex": 10,
+    "kana": "あさ",
+    "kanji": "朝",
+    "classification": ["noun"],
+    "definition": "morning"
+  },
+  {
+    "wikipediaIndex": 11,
+    "kana": "あさごはん",
+    "kanji": "朝御飯",
+    "classification": ["noun"],
+    "definition": "breakfast"
+  },
+  {
+    "wikipediaIndex": 12,
+    "kana": "あさって",
+    "kanji": "明後日",
+    "classification": ["noun"],
+    "definition": "the day after tomorrow"
+  },
+  {
+    "wikipediaIndex": 13,
+    "kana": "あし",
+    "kanji": "足",
+    "classification": ["noun"],
+    "definition": "foot, leg"
+  },
+  {
+    "wikipediaIndex": 14,
+    "kana": "あした",
+    "kanji": "明日",
+    "classification": ["noun"],
+    "definition": "tomorrow"
+  },
+  {
+    "wikipediaIndex": 15,
+    "kana": "あそこ",
+    "kanji": "彼処",
+    "classification": ["pronoun"],
+    "definition": "there, over there"
+  },
+  {
+    "wikipediaIndex": 16,
+    "kana": "あそぶ",
+    "kanji": "遊ぶ",
+    "classification": ["type I verb"],
+    "definition": "to play, to amuse oneself"
+  },
+  {
+    "wikipediaIndex": 17,
+    "kana": "あたたかい",
+    "kanji": "暖かい",
+    "classification": ["adjective"],
+    "definition": "warm"
+  },
+  {
+    "wikipediaIndex": 18,
+    "kana": "あたま",
+    "kanji": "頭",
+    "classification": ["noun"],
+    "definition": "head, brains"
+  },
+  {
+    "wikipediaIndex": 19,
+    "kana": "あたらしい",
+    "kanji": "新しい",
+    "classification": ["adjective"],
+    "definition": "new, fresh"
+  },
+  {
+    "wikipediaIndex": 20,
+    "kana": "あちら",
+    "kanji": "彼方",
+    "classification": ["pronoun"],
+    "definition": "there, that"
+  },
+  {
+    "wikipediaIndex": 21,
+    "kana": "あつい",
+    "kanji": "暑い",
+    "classification": ["adjective"],
+    "definition": "hot (weather, etc), warm"
+  },
+  {
+    "wikipediaIndex": 22,
+    "kana": "あつい",
+    "kanji": "熱い",
+    "classification": ["adjective"],
+    "definition": "hot (things), heated"
+  },
+  {
+    "wikipediaIndex": 23,
+    "kana": "あつい",
+    "kanji": "厚い",
+    "classification": ["adjective"],
+    "definition": "thick"
+  },
+  {
+    "wikipediaIndex": 24,
+    "kana": "あと",
+    "kanji": "後",
+    "classification": ["noun"],
+    "definition": "back, rear, after, later, the rest"
+  },
+  {
+    "wikipediaIndex": 25,
+    "kana": "あなた",
+    "kanji": "貴方",
+    "classification": ["pronoun"],
+    "definition": "you, dear (what a wife calls a husband)"
+  },
+  {
+    "wikipediaIndex": 26,
+    "kana": "あに",
+    "kanji": "兄",
+    "classification": ["noun"],
+    "definition": "elder brother"
+  },
+  {
+    "wikipediaIndex": 27,
+    "kana": "あね",
+    "kanji": "姉",
+    "classification": ["noun"],
+    "definition": "elder sister"
+  },
+  {
+    "wikipediaIndex": 28,
+    "kana": "あの",
+    "kanji": "彼の",
+    "classification": ["attribute"],
+    "definition": "that, those"
+  },
+  {
+    "wikipediaIndex": 29,
+    "kana": "あの",
+    "kanji": null,
+    "classification": ["interjection"],
+    "definition": "er, umm, uh"
+  },
+  {
+    "wikipediaIndex": 30,
+    "kana": "アパート",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "apartment, apartment building"
+  },
+  {
+    "wikipediaIndex": 31,
+    "kana": "あびる",
+    "kanji": "浴びる",
+    "classification": ["type II verb"],
+    "definition": "to pour on oneself, to bathe in"
+  },
+  {
+    "wikipediaIndex": 32,
+    "kana": "あぶない",
+    "kanji": "危ない",
+    "classification": ["adjective"],
+    "definition": "dangerous"
+  },
+  {
+    "wikipediaIndex": 33,
+    "kana": "あまい",
+    "kanji": "甘い",
+    "classification": ["adjective"],
+    "definition": "sweet"
+  },
+  {
+    "wikipediaIndex": 34,
+    "kana": "あまり",
+    "kanji": "余り",
+    "classification": ["adverb"],
+    "definition": "not very (with negative sentence), not much"
+  },
+  {
+    "wikipediaIndex": 35,
+    "kana": "あめ",
+    "kanji": "雨",
+    "classification": ["noun"],
+    "definition": "rain"
+  },
+  {
+    "wikipediaIndex": 36,
+    "kana": "あらう",
+    "kanji": "洗う",
+    "classification": ["type I verb"],
+    "definition": "to wash"
+  },
+  {
+    "wikipediaIndex": 37,
+    "kana": "ある",
+    "kanji": null,
+    "classification": ["type I verb"],
+    "definition": "to be (usu. of inanimate objects), to exist, to be located, to have, to possess, to take place"
+  },
+  {
+    "wikipediaIndex": 38,
+    "kana": "あるく",
+    "kanji": "歩く",
+    "classification": ["type I verb"],
+    "definition": "to walk"
+  },
+  {
+    "wikipediaIndex": 39,
+    "kana": "あれ",
+    "kanji": null,
+    "classification": ["pronoun"],
+    "definition": "that, that one"
+  },
+  {
+    "wikipediaIndex": 40,
+    "kana": "いい",
+    "kanji": "良い",
+    "classification": ["adjective"],
+    "definition": "good, right, excellent, fine, suitable"
+  },
+  {
+    "wikipediaIndex": 41,
+    "kana": "いいえ",
+    "kanji": null,
+    "classification": ["interjection"],
+    "definition": "no"
+  },
+  {
+    "wikipediaIndex": 42,
+    "kana": "いう",
+    "kanji": "言う",
+    "classification": ["type I verb"],
+    "definition": "say, state, express, be said, be called, named"
+  },
+  {
+    "wikipediaIndex": 43,
+    "kana": "いえ",
+    "kanji": "家",
+    "classification": ["noun"],
+    "definition": "house, home, household, family"
+  },
+  {
+    "wikipediaIndex": 44,
+    "kana": "いく",
+    "kanji": "行く",
+    "classification": ["type I verb"],
+    "definition": "go, come, proceed"
+  },
+  {
+    "wikipediaIndex": 45,
+    "kana": "いくつ",
+    "kanji": "幾つ",
+    "classification": ["noun"],
+    "definition": "how old, how many"
+  },
+  {
+    "wikipediaIndex": 46,
+    "kana": "いくら",
+    "kanji": "幾ら",
+    "classification": ["noun", "adverb"],
+    "definition": "how much, how many, hardly any, not much, however~, no matter how~"
+  },
+  {
+    "wikipediaIndex": 47,
+    "kana": "いけ",
+    "kanji": "池",
+    "classification": ["noun"],
+    "definition": "pond, pool, basin"
+  },
+  {
+    "wikipediaIndex": 48,
+    "kana": "いしゃ",
+    "kanji": "医者",
+    "classification": ["noun"],
+    "definition": "doctor, physician, surgeon"
+  },
+  {
+    "wikipediaIndex": 49,
+    "kana": "いす",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "chair, sofa"
+  },
+  {
+    "wikipediaIndex": 50,
+    "kana": "いそがしい",
+    "kanji": "忙しい",
+    "classification": ["adjective"],
+    "definition": "be busy, be engaged"
+  },
+  {
+    "wikipediaIndex": 51,
+    "kana": "いたい",
+    "kanji": "痛い",
+    "classification": ["adjective"],
+    "definition": "be painful, be sore, hurts"
+  },
+  {
+    "wikipediaIndex": 52,
+    "kana": "いち",
+    "kanji": "一",
+    "classification": ["noun"],
+    "definition": "one"
+  },
+  {
+    "wikipediaIndex": 53,
+    "kana": "いちにち",
+    "kanji": "一日",
+    "classification": ["noun"],
+    "definition": "one day, all day"
+  },
+  {
+    "wikipediaIndex": 54,
+    "kana": "いちばん",
+    "kanji": "一番",
+    "classification": ["adverb"],
+    "definition": "most, best, number one, first"
+  },
+  {
+    "wikipediaIndex": 55,
+    "kana": "いつ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "when"
+  },
+  {
+    "wikipediaIndex": 56,
+    "kana": "いつか",
+    "kanji": "五日",
+    "classification": ["noun"],
+    "definition": "the fifth of the month, five days"
+  },
+  {
+    "wikipediaIndex": 57,
+    "kana": "いっしょに",
+    "kanji": "一緒に",
+    "classification": ["adverb"],
+    "definition": "together"
+  },
+  {
+    "wikipediaIndex": 58,
+    "kana": "いつつ",
+    "kanji": "五つ",
+    "classification": ["noun"],
+    "definition": "five items, five years of age"
+  },
+  {
+    "wikipediaIndex": 59,
+    "kana": "いつも",
+    "kanji": null,
+    "classification": ["adverb"],
+    "definition": "always"
+  },
+  {
+    "wikipediaIndex": 60,
+    "kana": "いま",
+    "kanji": "今",
+    "classification": ["noun"],
+    "definition": "now, at present, just now, soon"
+  },
+  {
+    "wikipediaIndex": 61,
+    "kana": "いみ",
+    "kanji": "意味",
+    "classification": ["noun"],
+    "definition": "meaning, sense, significance"
+  },
+  {
+    "wikipediaIndex": 62,
+    "kana": "いもうと",
+    "kanji": "妹",
+    "classification": ["noun"],
+    "definition": "younger sister"
+  },
+  {
+    "wikipediaIndex": 63,
+    "kana": "いや",
+    "kanji": "嫌",
+    "classification": ["adjectival noun"],
+    "definition": "disagreeable, unpleasant, distasteful, offensive"
+  },
+  {
+    "wikipediaIndex": 64,
+    "kana": "いりぐち",
+    "kanji": "入口",
+    "classification": ["noun"],
+    "definition": "entrance"
+  },
+  {
+    "wikipediaIndex": 65,
+    "kana": "いる",
+    "kanji": "居る",
+    "classification": ["type II verb"],
+    "definition": "be, exist, live, reside"
+  },
+  {
+    "wikipediaIndex": 66,
+    "kana": "いる",
+    "kanji": "要る",
+    "classification": ["type I verb"],
+    "definition": "need, be necessary"
+  },
+  {
+    "wikipediaIndex": 67,
+    "kana": "いれる",
+    "kanji": "入れる",
+    "classification": ["type II verb"],
+    "definition": "put in, add, send, include, prepare"
+  },
+  {
+    "wikipediaIndex": 68,
+    "kana": "いろ",
+    "kanji": "色",
+    "classification": ["noun"],
+    "definition": "colour"
+  },
+  {
+    "wikipediaIndex": 69,
+    "kana": "いろいろ",
+    "kanji": null,
+    "classification": ["adverb", "adjectival noun"],
+    "definition": "various, several"
+  },
+  {
+    "wikipediaIndex": 70,
+    "kana": "うえ",
+    "kanji": "上",
+    "classification": ["noun"],
+    "definition": "up, upward, above, top, higher, superior, older"
+  },
+  {
+    "wikipediaIndex": 71,
+    "kana": "うしろ",
+    "kanji": "後",
+    "classification": ["noun"],
+    "definition": "the back, the rear, behind, in back of"
+  },
+  {
+    "wikipediaIndex": 72,
+    "kana": "うすい",
+    "kanji": "薄い",
+    "classification": ["adjective"],
+    "definition": "thin, weak"
+  },
+  {
+    "wikipediaIndex": 73,
+    "kana": "うた",
+    "kanji": "歌",
+    "classification": ["noun"],
+    "definition": "a song, singing"
+  },
+  {
+    "wikipediaIndex": 74,
+    "kana": "うたう",
+    "kanji": "歌う",
+    "classification": ["type I verb"],
+    "definition": "sing"
+  },
+  {
+    "wikipediaIndex": 75,
+    "kana": "うち",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "a house, a household"
+  },
+  {
+    "wikipediaIndex": 76,
+    "kana": "うまれる",
+    "kanji": "生まれる",
+    "classification": ["type II verb"],
+    "definition": "be born, come into existence"
+  },
+  {
+    "wikipediaIndex": 77,
+    "kana": "うみ",
+    "kanji": "海",
+    "classification": ["noun"],
+    "definition": "sea, ocean"
+  },
+  {
+    "wikipediaIndex": 78,
+    "kana": "うる",
+    "kanji": "売る",
+    "classification": ["type I verb"],
+    "definition": "to sell"
+  },
+  {
+    "wikipediaIndex": 79,
+    "kana": "うわぎ",
+    "kanji": "上着",
+    "classification": ["noun"],
+    "definition": "coat, suit jacket, upper garment, outerwear"
+  },
+  {
+    "wikipediaIndex": 80,
+    "kana": "え",
+    "kanji": "絵",
+    "classification": ["noun"],
+    "definition": "picture, painting, drawing"
+  },
+  {
+    "wikipediaIndex": 81,
+    "kana": "えいが",
+    "kanji": "映画",
+    "classification": ["noun"],
+    "definition": "movie, motion picture"
+  },
+  {
+    "wikipediaIndex": 82,
+    "kana": "えいがかん",
+    "kanji": "映画館",
+    "classification": ["noun"],
+    "definition": "a movie theatre"
+  },
+  {
+    "wikipediaIndex": 83,
+    "kana": "えいご",
+    "kanji": "英語",
+    "classification": ["noun"],
+    "definition": "English, the English language"
+  },
+  {
+    "wikipediaIndex": 84,
+    "kana": "ええ",
+    "kanji": null,
+    "classification": ["interjection"],
+    "definition": "yes, yeah"
+  },
+  {
+    "wikipediaIndex": 85,
+    "kana": "えき",
+    "kanji": "駅",
+    "classification": ["noun"],
+    "definition": "station"
+  },
+  {
+    "wikipediaIndex": 86,
+    "kana": "エレベーター",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "elevator"
+  },
+  {
+    "wikipediaIndex": 87,
+    "kana": "えん",
+    "kanji": "円",
+    "classification": ["noun", "suffix"],
+    "definition": "~yen"
+  },
+  {
+    "wikipediaIndex": 88,
+    "kana": "えんぴつ",
+    "kanji": "鉛筆",
+    "classification": ["noun"],
+    "definition": "pencil"
+  },
+  {
+    "wikipediaIndex": 89,
+    "kana": "おいしい",
+    "kanji": "美味しい",
+    "classification": ["adjective"],
+    "definition": "good-tasting, delicious"
+  },
+  {
+    "wikipediaIndex": 90,
+    "kana": "おおきい",
+    "kanji": "大きい",
+    "classification": ["adjective"],
+    "definition": "big, large, great"
+  },
+  {
+    "wikipediaIndex": 91,
+    "kana": "おおぜい",
+    "kanji": "大勢",
+    "classification": ["noun"],
+    "definition": "a great number of people, a crowd"
+  },
+  {
+    "wikipediaIndex": 92,
+    "kana": "おかあさん",
+    "kanji": "お母さん",
+    "classification": ["noun"],
+    "definition": "mother"
+  },
+  {
+    "wikipediaIndex": 93,
+    "kana": "おかし",
+    "kanji": "お菓子",
+    "classification": ["noun"],
+    "definition": "sweets, confectionary, cake, pastry"
+  },
+  {
+    "wikipediaIndex": 94,
+    "kana": "おかね",
+    "kanji": "お金",
+    "classification": ["noun"],
+    "definition": "money"
+  },
+  {
+    "wikipediaIndex": 95,
+    "kana": "おきる",
+    "kanji": "起きる",
+    "classification": ["type I verb"],
+    "definition": "wake up, get up; be up, be awake; take place, occur;"
+  },
+  {
+    "wikipediaIndex": 96,
+    "kana": "おく",
+    "kanji": "置く",
+    "classification": ["type I verb"],
+    "definition": "put, place, lay, leave"
+  },
+  {
+    "wikipediaIndex": 97,
+    "kana": "おくさん",
+    "kanji": "奥さん",
+    "classification": ["noun"],
+    "definition": "wife, married woman"
+  },
+  {
+    "wikipediaIndex": 98,
+    "kana": "おさけ",
+    "kanji": "お酒",
+    "classification": ["noun"],
+    "definition": "liquor, alcoholic beverage; sake, Japanese rice wine"
+  },
+  {
+    "wikipediaIndex": 99,
+    "kana": "おさら",
+    "kanji": "お皿",
+    "classification": ["noun"],
+    "definition": "dish, plate, saucer, etc"
+  },
+  {
+    "wikipediaIndex": 100,
+    "kana": "おじさん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "uncle, a middle-aged man"
+  },
+  {
+    "wikipediaIndex": 101,
+    "kana": "おじいさん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "grandfather, an old man"
+  },
+  {
+    "wikipediaIndex": 102,
+    "kana": "おしえる",
+    "kanji": "教える",
+    "classification": ["type II verb"],
+    "definition": "teach; tell, inform"
+  },
+  {
+    "wikipediaIndex": 103,
+    "kana": "おす",
+    "kanji": "押す",
+    "classification": ["type I verb"],
+    "definition": "push; stamp, seal"
+  },
+  {
+    "wikipediaIndex": 104,
+    "kana": "おそい",
+    "kanji": "遅い",
+    "classification": ["adjective"],
+    "definition": "late; slow"
+  },
+  {
+    "wikipediaIndex": 105,
+    "kana": "おちゃ",
+    "kanji": "お茶",
+    "classification": ["noun"],
+    "definition": "tea"
+  },
+  {
+    "wikipediaIndex": 106,
+    "kana": "おてあらい",
+    "kanji": "お手洗い",
+    "classification": ["noun"],
+    "definition": "lavatory, rest room, Ladies' Room, Men's Room"
+  },
+  {
+    "wikipediaIndex": 107,
+    "kana": "おとうさん",
+    "kanji": "お父さん",
+    "classification": ["noun"],
+    "definition": "father"
+  },
+  {
+    "wikipediaIndex": 108,
+    "kana": "おとうと",
+    "kanji": "弟",
+    "classification": ["noun"],
+    "definition": "younger brother"
+  },
+  {
+    "wikipediaIndex": 109,
+    "kana": "おとこ",
+    "kanji": "男",
+    "classification": ["noun"],
+    "definition": "man, male"
+  },
+  {
+    "wikipediaIndex": 110,
+    "kana": "おとこのこ",
+    "kanji": "男の子",
+    "classification": ["noun"],
+    "definition": "boy"
+  },
+  {
+    "wikipediaIndex": 111,
+    "kana": "おととい",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "the day before yesterday"
+  },
+  {
+    "wikipediaIndex": 112,
+    "kana": "おととし",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "the year before last"
+  },
+  {
+    "wikipediaIndex": 113,
+    "kana": "おとな",
+    "kanji": "大人",
+    "classification": ["noun"],
+    "definition": "an adult, a grown up"
+  },
+  {
+    "wikipediaIndex": 114,
+    "kana": "おなか",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "stomach"
+  },
+  {
+    "wikipediaIndex": 115,
+    "kana": "おなじ",
+    "kanji": "同じ",
+    "classification": ["adjectival noun"],
+    "definition": "the same, alike"
+  },
+  {
+    "wikipediaIndex": 116,
+    "kana": "おにいさん",
+    "kanji": "お兄さん",
+    "classification": ["noun"],
+    "definition": "older brother"
+  },
+  {
+    "wikipediaIndex": 117,
+    "kana": "おねえさん",
+    "kanji": "お姉さん",
+    "classification": ["noun"],
+    "definition": "older sister"
+  },
+  {
+    "wikipediaIndex": 118,
+    "kana": "おばさん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "aunt; a middle-aged woman, a lady"
+  },
+  {
+    "wikipediaIndex": 119,
+    "kana": "おばあさん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "grandmother; an elderly lady"
+  },
+  {
+    "wikipediaIndex": 120,
+    "kana": "おべんとう",
+    "kanji": "お弁当",
+    "classification": ["noun"],
+    "definition": "box lunch"
+  },
+  {
+    "wikipediaIndex": 121,
+    "kana": "おぼえる",
+    "kanji": "覚える",
+    "classification": ["type II verb"],
+    "definition": "memorize, remember, know; learn, master"
+  },
+  {
+    "wikipediaIndex": 122,
+    "kana": "おもい",
+    "kanji": "重い",
+    "classification": ["adjective"],
+    "definition": "heavy; severe, grave"
+  },
+  {
+    "wikipediaIndex": 123,
+    "kana": "おもしろい",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "amusing, funny; pleasant, entertaining; interesting"
+  },
+  {
+    "wikipediaIndex": 124,
+    "kana": "およぐ",
+    "kanji": "泳ぐ",
+    "classification": ["type I verb"],
+    "definition": "swim"
+  },
+  {
+    "wikipediaIndex": 125,
+    "kana": "おりる",
+    "kanji": "降りる",
+    "classification": ["type II verb"],
+    "definition": "get off, disembark"
+  },
+  {
+    "wikipediaIndex": 126,
+    "kana": "おわる",
+    "kanji": "終わる",
+    "classification": ["type I verb"],
+    "definition": "to end; to finish doing something"
+  },
+  {
+    "wikipediaIndex": 127,
+    "kana": "おんがく",
+    "kanji": "音楽",
+    "classification": ["noun"],
+    "definition": "music"
+  },
+  {
+    "wikipediaIndex": 128,
+    "kana": "おんな",
+    "kanji": "女",
+    "classification": ["noun"],
+    "definition": "woman, female"
+  },
+  {
+    "wikipediaIndex": 129,
+    "kana": "おんなのこ",
+    "kanji": "女の子",
+    "classification": ["noun"],
+    "definition": "girl"
+  },
+  {
+    "wikipediaIndex": 130,
+    "kana": "かい",
+    "kanji": "回",
+    "classification": ["suffix"],
+    "definition": "~th times"
+  },
+  {
+    "wikipediaIndex": 131,
+    "kana": "かい",
+    "kanji": "階",
+    "classification": ["suffix"],
+    "definition": "~th floor"
+  },
+  {
+    "wikipediaIndex": 132,
+    "kana": "がいこく",
+    "kanji": "外国",
+    "classification": ["noun"],
+    "definition": "foreign country"
+  },
+  {
+    "wikipediaIndex": 133,
+    "kana": "がいこくじん",
+    "kanji": "外国人",
+    "classification": ["noun"],
+    "definition": "foreigner"
+  },
+  {
+    "wikipediaIndex": 134,
+    "kana": "かいしゃ",
+    "kanji": "会社",
+    "classification": ["noun"],
+    "definition": "corporation"
+  },
+  {
+    "wikipediaIndex": 135,
+    "kana": "かいだん",
+    "kanji": "階段",
+    "classification": ["noun"],
+    "definition": "stairs"
+  },
+  {
+    "wikipediaIndex": 136,
+    "kana": "かいもの",
+    "kanji": "買い物",
+    "classification": ["noun"],
+    "definition": "shopping"
+  },
+  {
+    "wikipediaIndex": 137,
+    "kana": "かう",
+    "kanji": "買う",
+    "classification": ["type I verb"],
+    "definition": "buy, shop, purchase"
+  },
+  {
+    "wikipediaIndex": 138,
+    "kana": "かえす",
+    "kanji": "返す",
+    "classification": ["type I verb"],
+    "definition": "return, turn over"
+  },
+  {
+    "wikipediaIndex": 139,
+    "kana": "かえる",
+    "kanji": "帰る",
+    "classification": ["type I verb"],
+    "definition": "go back, return"
+  },
+  {
+    "wikipediaIndex": 140,
+    "kana": "かお",
+    "kanji": "顔",
+    "classification": ["noun"],
+    "definition": "face"
+  },
+  {
+    "wikipediaIndex": 141,
+    "kana": "かかる （時間がかかる）",
+    "kanji": null,
+    "classification": ["type I verb"],
+    "definition": "take/require (time/money/resource)"
+  },
+  {
+    "wikipediaIndex": 142,
+    "kana": "かぎ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "key"
+  },
+  {
+    "wikipediaIndex": 143,
+    "kana": "かく",
+    "kanji": "書く",
+    "classification": ["type I verb"],
+    "definition": "write"
+  },
+  {
+    "wikipediaIndex": 144,
+    "kana": "がくせい",
+    "kanji": "学生",
+    "classification": ["noun"],
+    "definition": "student"
+  },
+  {
+    "wikipediaIndex": 145,
+    "kana": "~かげつ",
+    "kanji": "~か月",
+    "classification": ["suffix"],
+    "definition": "~months"
+  },
+  {
+    "wikipediaIndex": 146,
+    "kana": "かける （眼鏡をかける）",
+    "kanji": null,
+    "classification": [],
+    "definition": "wear (glasses)"
+  },
+  {
+    "wikipediaIndex": 147,
+    "kana": "かける （電話をかける）",
+    "kanji": null,
+    "classification": [],
+    "definition": "make a phone call"
+  },
+  {
+    "wikipediaIndex": 148,
+    "kana": "かさ",
+    "kanji": "傘",
+    "classification": ["noun"],
+    "definition": "umbrella"
+  },
+  {
+    "wikipediaIndex": 149,
+    "kana": "かす",
+    "kanji": "貸す",
+    "classification": ["type I verb"],
+    "definition": "rent, lease"
+  },
+  {
+    "wikipediaIndex": 150,
+    "kana": "かぜ",
+    "kanji": "風",
+    "classification": ["noun"],
+    "definition": "wind, breeze"
+  },
+  {
+    "wikipediaIndex": 151,
+    "kana": "かぞく",
+    "kanji": "家族",
+    "classification": ["noun"],
+    "definition": "family"
+  },
+  {
+    "wikipediaIndex": 152,
+    "kana": "かた",
+    "kanji": "（この方）",
+    "classification": [],
+    "definition": "direction, way, person"
+  },
+  {
+    "wikipediaIndex": 153,
+    "kana": "かたかな",
+    "kanji": "片仮名",
+    "classification": ["noun"],
+    "definition": "Katakana"
+  },
+  {
+    "wikipediaIndex": 154,
+    "kana": "~がつ",
+    "kanji": "~月",
+    "classification": ["suffix"],
+    "definition": "~month"
+  },
+  {
+    "wikipediaIndex": 155,
+    "kana": "がっこう",
+    "kanji": "学校",
+    "classification": ["noun"],
+    "definition": "school"
+  },
+  {
+    "wikipediaIndex": 156,
+    "kana": "かど",
+    "kanji": "角",
+    "classification": ["noun"],
+    "definition": "corner"
+  },
+  {
+    "wikipediaIndex": 157,
+    "kana": "かない",
+    "kanji": "家内",
+    "classification": ["noun"],
+    "definition": "wife"
+  },
+  {
+    "wikipediaIndex": 158,
+    "kana": "かばん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "bag"
+  },
+  {
+    "wikipediaIndex": 159,
+    "kana": "かびん",
+    "kanji": "花瓶",
+    "classification": ["noun"],
+    "definition": "vase"
+  },
+  {
+    "wikipediaIndex": 160,
+    "kana": "かぶる",
+    "kanji": null,
+    "classification": ["type I verb"],
+    "definition": "wear (hat, cap, mask, helmet)"
+  },
+  {
+    "wikipediaIndex": 161,
+    "kana": "かみ",
+    "kanji": "紙",
+    "classification": ["noun"],
+    "definition": "paper"
+  },
+  {
+    "wikipediaIndex": 162,
+    "kana": "カメラ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "camera"
+  },
+  {
+    "wikipediaIndex": 163,
+    "kana": "かようび",
+    "kanji": "火曜日",
+    "classification": ["noun"],
+    "definition": "Tuesday"
+  },
+  {
+    "wikipediaIndex": 164,
+    "kana": "からい",
+    "kanji": "辛い",
+    "classification": ["adjective"],
+    "definition": "hot, spicy"
+  },
+  {
+    "wikipediaIndex": 165,
+    "kana": "からだ",
+    "kanji": "体",
+    "classification": ["noun"],
+    "definition": "body"
+  },
+  {
+    "wikipediaIndex": 166,
+    "kana": "かりる",
+    "kanji": "借りる",
+    "classification": [],
+    "definition": "borrow"
+  },
+  {
+    "wikipediaIndex": 167,
+    "kana": "~がる",
+    "kanji": null,
+    "classification": ["suffix"],
+    "definition": "to feel ~"
+  },
+  {
+    "wikipediaIndex": 168,
+    "kana": "かるい",
+    "kanji": "軽い",
+    "classification": ["adjective"],
+    "definition": "light"
+  },
+  {
+    "wikipediaIndex": 169,
+    "kana": "カレンダー",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "calendar"
+  },
+  {
+    "wikipediaIndex": 170,
+    "kana": "かわ",
+    "kanji": "川",
+    "classification": ["noun"],
+    "definition": "river"
+  },
+  {
+    "wikipediaIndex": 171,
+    "kana": "かわ",
+    "kanji": "河",
+    "classification": ["noun"],
+    "definition": "river"
+  },
+  {
+    "wikipediaIndex": 172,
+    "kana": "~がわ",
+    "kanji": "~側",
+    "classification": ["suffix"],
+    "definition": "~('s) side"
+  },
+  {
+    "wikipediaIndex": 173,
+    "kana": "かわいい",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "cute, adorable"
+  },
+  {
+    "wikipediaIndex": 174,
+    "kana": "かんじ",
+    "kanji": "漢字",
+    "classification": ["noun"],
+    "definition": "kanji"
+  },
+  {
+    "wikipediaIndex": 175,
+    "kana": "き",
+    "kanji": "木",
+    "classification": ["noun"],
+    "definition": "wood, tree"
+  },
+  {
+    "wikipediaIndex": 176,
+    "kana": "きいろい",
+    "kanji": "黄色い",
+    "classification": ["noun"],
+    "definition": "yellow"
+  },
+  {
+    "wikipediaIndex": 177,
+    "kana": "きえる",
+    "kanji": "消える",
+    "classification": [],
+    "definition": "to vanish"
+  },
+  {
+    "wikipediaIndex": 178,
+    "kana": "きく",
+    "kanji": "聞く",
+    "classification": ["type I verb"],
+    "definition": "to hear"
+  },
+  {
+    "wikipediaIndex": 179,
+    "kana": "きた",
+    "kanji": "北",
+    "classification": ["noun"],
+    "definition": "north"
+  },
+  {
+    "wikipediaIndex": 180,
+    "kana": "ギター",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "guitar"
+  },
+  {
+    "wikipediaIndex": 181,
+    "kana": "きたない",
+    "kanji": "汚い",
+    "classification": ["adjective"],
+    "definition": "dirty"
+  },
+  {
+    "wikipediaIndex": 182,
+    "kana": "きっさてん",
+    "kanji": "喫茶店",
+    "classification": ["noun"],
+    "definition": "coffee lounge"
+  },
+  {
+    "wikipediaIndex": 183,
+    "kana": "きって",
+    "kanji": "切手",
+    "classification": ["noun"],
+    "definition": "postage stamp"
+  },
+  {
+    "wikipediaIndex": 184,
+    "kana": "きっぷ",
+    "kanji": "切符",
+    "classification": ["noun"],
+    "definition": "ticket"
+  },
+  {
+    "wikipediaIndex": 185,
+    "kana": "きのう",
+    "kanji": "昨日",
+    "classification": ["noun"],
+    "definition": "yesterday"
+  },
+  {
+    "wikipediaIndex": 186,
+    "kana": "きゅう",
+    "kanji": "九",
+    "classification": ["noun"],
+    "definition": "nine"
+  },
+  {
+    "wikipediaIndex": 187,
+    "kana": "ぎゅうにく",
+    "kanji": "牛肉",
+    "classification": ["noun"],
+    "definition": "beef"
+  },
+  {
+    "wikipediaIndex": 188,
+    "kana": "きょう",
+    "kanji": "今日",
+    "classification": ["noun"],
+    "definition": "today"
+  },
+  {
+    "wikipediaIndex": 189,
+    "kana": "きょうしつ",
+    "kanji": "教室",
+    "classification": ["noun"],
+    "definition": "classroom"
+  },
+  {
+    "wikipediaIndex": 190,
+    "kana": "きょうだい",
+    "kanji": "兄弟",
+    "classification": ["noun"],
+    "definition": "siblings"
+  },
+  {
+    "wikipediaIndex": 191,
+    "kana": "きょねん",
+    "kanji": "去年",
+    "classification": ["noun"],
+    "definition": "last year"
+  },
+  {
+    "wikipediaIndex": 192,
+    "kana": "きらい",
+    "kanji": "嫌い",
+    "classification": [],
+    "definition": "dislike, hate"
+  },
+  {
+    "wikipediaIndex": 193,
+    "kana": "きる",
+    "kanji": "切る",
+    "classification": [],
+    "definition": "to cut, to chop"
+  },
+  {
+    "wikipediaIndex": 194,
+    "kana": "きる",
+    "kanji": "着る",
+    "classification": [],
+    "definition": "to wear"
+  },
+  {
+    "wikipediaIndex": 195,
+    "kana": "きれい",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "pretty, beautiful, clean"
+  },
+  {
+    "wikipediaIndex": 196,
+    "kana": "キロ （キログラム）",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "kilogram"
+  },
+  {
+    "wikipediaIndex": 197,
+    "kana": "キロ （キロメートル）",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "kilometer"
+  },
+  {
+    "wikipediaIndex": 198,
+    "kana": "ぎんこう",
+    "kanji": "銀行",
+    "classification": ["noun"],
+    "definition": "bank"
+  },
+  {
+    "wikipediaIndex": 199,
+    "kana": "きんようび",
+    "kanji": "金曜日",
+    "classification": ["noun"],
+    "definition": "Friday"
+  },
+  {
+    "wikipediaIndex": 200,
+    "kana": "く",
+    "kanji": "工",
+    "classification": ["noun"],
+    "definition": "~worker, ~smith"
+  },
+  {
+    "wikipediaIndex": 201,
+    "kana": "くすり",
+    "kanji": "薬",
+    "classification": ["noun"],
+    "definition": "medicine"
+  },
+  {
+    "wikipediaIndex": 202,
+    "kana": "ください",
+    "kanji": null,
+    "classification": [],
+    "definition": "please"
+  },
+  {
+    "wikipediaIndex": 203,
+    "kana": "くだもの",
+    "kanji": "果物",
+    "classification": ["noun"],
+    "definition": "fruit"
+  },
+  {
+    "wikipediaIndex": 204,
+    "kana": "くち",
+    "kanji": "口",
+    "classification": ["noun"],
+    "definition": "mouth, opening, orifice"
+  },
+  {
+    "wikipediaIndex": 205,
+    "kana": "くつ",
+    "kanji": "靴",
+    "classification": ["noun"],
+    "definition": "shoes"
+  },
+  {
+    "wikipediaIndex": 206,
+    "kana": "くつした",
+    "kanji": "靴下",
+    "classification": ["noun"],
+    "definition": "socks"
+  },
+  {
+    "wikipediaIndex": 207,
+    "kana": "くに",
+    "kanji": "国",
+    "classification": ["noun"],
+    "definition": "country"
+  },
+  {
+    "wikipediaIndex": 208,
+    "kana": "くもる",
+    "kanji": "曇る",
+    "classification": ["type I verb"],
+    "definition": "to become cloudy/dim"
+  },
+  {
+    "wikipediaIndex": 209,
+    "kana": "くらい",
+    "kanji": "暗い",
+    "classification": ["adjective"],
+    "definition": "dark, gloomy"
+  },
+  {
+    "wikipediaIndex": 210,
+    "kana": "~くらい",
+    "kanji": null,
+    "classification": ["suffix"],
+    "definition": "approximate (quantity)"
+  },
+  {
+    "wikipediaIndex": 211,
+    "kana": "~ぐらい",
+    "kanji": null,
+    "classification": ["suffix"],
+    "definition": "approximate (quantity)"
+  },
+  {
+    "wikipediaIndex": 212,
+    "kana": "クラス",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "class"
+  },
+  {
+    "wikipediaIndex": 213,
+    "kana": "グラム",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "gram"
+  },
+  {
+    "wikipediaIndex": 214,
+    "kana": "くる",
+    "kanji": "来る",
+    "classification": ["type I verb"],
+    "definition": "to come"
+  },
+  {
+    "wikipediaIndex": 215,
+    "kana": "くるま",
+    "kanji": "車",
+    "classification": ["noun"],
+    "definition": "car, vehicle, wheel"
+  },
+  {
+    "wikipediaIndex": 216,
+    "kana": "くろい",
+    "kanji": "黒い",
+    "classification": ["noun"],
+    "definition": "black, dark"
+  },
+  {
+    "wikipediaIndex": 217,
+    "kana": "けさ",
+    "kanji": "今朝",
+    "classification": ["noun"],
+    "definition": "this morning"
+  },
+  {
+    "wikipediaIndex": 218,
+    "kana": "けす",
+    "kanji": "消す",
+    "classification": ["type I verb"],
+    "definition": "to erase, to turn off"
+  },
+  {
+    "wikipediaIndex": 219,
+    "kana": "けっこう",
+    "kanji": "結構",
+    "classification": ["adjective"],
+    "definition": "splendid, nice, well enough"
+  },
+  {
+    "wikipediaIndex": 220,
+    "kana": "けっこん",
+    "kanji": "結婚",
+    "classification": ["noun"],
+    "definition": "marriage"
+  },
+  {
+    "wikipediaIndex": 221,
+    "kana": "げつようび",
+    "kanji": "月曜日",
+    "classification": ["noun"],
+    "definition": "Monday"
+  },
+  {
+    "wikipediaIndex": 222,
+    "kana": "げんかん",
+    "kanji": "玄関",
+    "classification": ["noun"],
+    "definition": "entranceway, entry hall"
+  },
+  {
+    "wikipediaIndex": 223,
+    "kana": "げんき",
+    "kanji": "元気",
+    "classification": ["noun"],
+    "definition": "health, spirit, energy"
+  },
+  {
+    "wikipediaIndex": 224,
+    "kana": "~こ",
+    "kanji": "~個",
+    "classification": ["suffix"],
+    "definition": "counter for military units"
+  },
+  {
+    "wikipediaIndex": 225,
+    "kana": "ご",
+    "kanji": "五",
+    "classification": ["noun"],
+    "definition": "five"
+  },
+  {
+    "wikipediaIndex": 226,
+    "kana": "~ご",
+    "kanji": "~語",
+    "classification": ["suffix"],
+    "definition": "language, word"
+  },
+  {
+    "wikipediaIndex": 227,
+    "kana": "こうえん",
+    "kanji": "公園",
+    "classification": ["noun"],
+    "definition": "(public) park"
+  },
+  {
+    "wikipediaIndex": 228,
+    "kana": "こうばん",
+    "kanji": "交番",
+    "classification": ["noun"],
+    "definition": "police box"
+  },
+  {
+    "wikipediaIndex": 229,
+    "kana": "こえ",
+    "kanji": "声",
+    "classification": ["noun"],
+    "definition": "voice"
+  },
+  {
+    "wikipediaIndex": 230,
+    "kana": "コート",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "coat, tennis court"
+  },
+  {
+    "wikipediaIndex": 231,
+    "kana": "ここ （指示詞）",
+    "kanji": null,
+    "classification": ["pronoun"],
+    "definition": "here, this place"
+  },
+  {
+    "wikipediaIndex": 232,
+    "kana": "ごご",
+    "kanji": "午後",
+    "classification": ["noun"],
+    "definition": "afternoon, PM"
+  },
+  {
+    "wikipediaIndex": 233,
+    "kana": "ここのか",
+    "kanji": "九日",
+    "classification": ["noun"],
+    "definition": "nine days, ninth of the month"
+  },
+  {
+    "wikipediaIndex": 234,
+    "kana": "ここのつ",
+    "kanji": "九つ",
+    "classification": ["noun"],
+    "definition": "nine"
+  },
+  {
+    "wikipediaIndex": 235,
+    "kana": "ごしゅじん",
+    "kanji": "御主人",
+    "classification": ["noun"],
+    "definition": "husband (hon)"
+  },
+  {
+    "wikipediaIndex": 236,
+    "kana": "ごぜん",
+    "kanji": "午前",
+    "classification": ["noun"],
+    "definition": "morning, AM"
+  },
+  {
+    "wikipediaIndex": 237,
+    "kana": "こたえる",
+    "kanji": "答える",
+    "classification": [],
+    "definition": "to answer, to reply"
+  },
+  {
+    "wikipediaIndex": 238,
+    "kana": "こちら",
+    "kanji": null,
+    "classification": ["pronoun"],
+    "definition": "this person, this direction, this side, thereafter"
+  },
+  {
+    "wikipediaIndex": 239,
+    "kana": "コップ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "glass"
+  },
+  {
+    "wikipediaIndex": 240,
+    "kana": "ことし",
+    "kanji": "今年",
+    "classification": ["noun"],
+    "definition": "this year"
+  },
+  {
+    "wikipediaIndex": 241,
+    "kana": "ことば",
+    "kanji": "言葉",
+    "classification": ["noun"],
+    "definition": "word, language, speech"
+  },
+  {
+    "wikipediaIndex": 242,
+    "kana": "こども",
+    "kanji": "子供",
+    "classification": ["noun"],
+    "definition": "child"
+  },
+  {
+    "wikipediaIndex": 243,
+    "kana": "この",
+    "kanji": null,
+    "classification": [],
+    "definition": "this"
+  },
+  {
+    "wikipediaIndex": 244,
+    "kana": "ごはん",
+    "kanji": "御飯",
+    "classification": ["noun"],
+    "definition": "(cooked) rice"
+  },
+  {
+    "wikipediaIndex": 245,
+    "kana": "こまる",
+    "kanji": "困る",
+    "classification": [],
+    "definition": "to be worried/bothered"
+  },
+  {
+    "wikipediaIndex": 246,
+    "kana": "これ",
+    "kanji": null,
+    "classification": [],
+    "definition": "this"
+  },
+  {
+    "wikipediaIndex": 247,
+    "kana": "~ころ",
+    "kanji": null,
+    "classification": ["suffix"],
+    "definition": "time, about, toward, approx. (time)"
+  },
+  {
+    "wikipediaIndex": 248,
+    "kana": "~ごろ",
+    "kanji": null,
+    "classification": ["suffix"],
+    "definition": "time, about, toward, approx. (time)"
+  },
+  {
+    "wikipediaIndex": 249,
+    "kana": "こんげつ",
+    "kanji": "今月",
+    "classification": ["noun"],
+    "definition": "this month"
+  },
+  {
+    "wikipediaIndex": 250,
+    "kana": "こんしゅう",
+    "kanji": "今週",
+    "classification": ["noun"],
+    "definition": "this week"
+  },
+  {
+    "wikipediaIndex": 251,
+    "kana": "こんな",
+    "kanji": null,
+    "classification": [],
+    "definition": "such, like this"
+  },
+  {
+    "wikipediaIndex": 252,
+    "kana": "こんばん",
+    "kanji": "今晩",
+    "classification": ["noun"],
+    "definition": "tonight, this evening"
+  },
+  {
+    "wikipediaIndex": 253,
+    "kana": "さあ （感動詞）",
+    "kanji": null,
+    "classification": [],
+    "definition": "come, come now"
+  },
+  {
+    "wikipediaIndex": 254,
+    "kana": "~さい",
+    "kanji": "~歳",
+    "classification": ["suffix"],
+    "definition": "~years old"
+  },
+  {
+    "wikipediaIndex": 255,
+    "kana": "さかな",
+    "kanji": "魚",
+    "classification": ["noun"],
+    "definition": "fish"
+  },
+  {
+    "wikipediaIndex": 256,
+    "kana": "さき",
+    "kanji": "先",
+    "classification": ["noun"],
+    "definition": "the future, priority, precedence, former, previous, old, late"
+  },
+  {
+    "wikipediaIndex": 257,
+    "kana": "さく",
+    "kanji": "咲く",
+    "classification": ["type I verb"],
+    "definition": "to bloom"
+  },
+  {
+    "wikipediaIndex": 258,
+    "kana": "さくぶん",
+    "kanji": "作文",
+    "classification": ["noun"],
+    "definition": "composition, writing"
+  },
+  {
+    "wikipediaIndex": 259,
+    "kana": "さす （傘をさす）",
+    "kanji": null,
+    "classification": ["type I verb"],
+    "definition": "to raise (stretch out) hands, to raise umbrella"
+  },
+  {
+    "wikipediaIndex": 260,
+    "kana": "~さつ",
+    "kanji": "~冊",
+    "classification": ["suffix"],
+    "definition": "counter for books"
+  },
+  {
+    "wikipediaIndex": 261,
+    "kana": "ざっし",
+    "kanji": "雑誌",
+    "classification": ["noun"],
+    "definition": "journal, magazine"
+  },
+  {
+    "wikipediaIndex": 262,
+    "kana": "さとう",
+    "kanji": "砂糖",
+    "classification": ["noun"],
+    "definition": "sugar"
+  },
+  {
+    "wikipediaIndex": 263,
+    "kana": "さむい",
+    "kanji": "寒い",
+    "classification": ["adjective"],
+    "definition": "cold (weather)"
+  },
+  {
+    "wikipediaIndex": 264,
+    "kana": "さらいねん",
+    "kanji": "再来年",
+    "classification": ["noun"],
+    "definition": "year after next"
+  },
+  {
+    "wikipediaIndex": 265,
+    "kana": "~さん",
+    "kanji": null,
+    "classification": ["suffix"],
+    "definition": "Mr., Mrs., Ms."
+  },
+  {
+    "wikipediaIndex": 266,
+    "kana": "さん",
+    "kanji": "三",
+    "classification": ["noun"],
+    "definition": "three"
+  },
+  {
+    "wikipediaIndex": 267,
+    "kana": "さんぽ",
+    "kanji": "散歩",
+    "classification": ["noun"],
+    "definition": "walk, stroll"
+  },
+  {
+    "wikipediaIndex": 268,
+    "kana": "し",
+    "kanji": "四",
+    "classification": ["noun"],
+    "definition": "four"
+  },
+  {
+    "wikipediaIndex": 269,
+    "kana": "~じ",
+    "kanji": null,
+    "classification": ["suffix"],
+    "definition": "time (o'clock)"
+  },
+  {
+    "wikipediaIndex": 270,
+    "kana": "しお",
+    "kanji": "塩",
+    "classification": ["noun"],
+    "definition": "salt"
+  },
+  {
+    "wikipediaIndex": 271,
+    "kana": "しかし",
+    "kanji": null,
+    "classification": ["conjunction"],
+    "definition": "however, but"
+  },
+  {
+    "wikipediaIndex": 272,
+    "kana": "じかん",
+    "kanji": "時間",
+    "classification": ["noun"],
+    "definition": "time"
+  },
+  {
+    "wikipediaIndex": 273,
+    "kana": "~じかん",
+    "kanji": "~時間",
+    "classification": ["suffix"],
+    "definition": "~ hours"
+  },
+  {
+    "wikipediaIndex": 274,
+    "kana": "しごと",
+    "kanji": "仕事",
+    "classification": ["noun"],
+    "definition": "work, occupation, employment"
+  },
+  {
+    "wikipediaIndex": 275,
+    "kana": "じしょ",
+    "kanji": "辞書",
+    "classification": ["noun"],
+    "definition": "dictionary, lexicon"
+  },
+  {
+    "wikipediaIndex": 276,
+    "kana": "しずか",
+    "kanji": "静か",
+    "classification": ["adjective"],
+    "definition": "quiet, peaceful"
+  },
+  {
+    "wikipediaIndex": 277,
+    "kana": "した",
+    "kanji": "下",
+    "classification": [],
+    "definition": "under, below, beneath"
+  },
+  {
+    "wikipediaIndex": 278,
+    "kana": "しち",
+    "kanji": "七",
+    "classification": ["noun"],
+    "definition": "seven"
+  },
+  {
+    "wikipediaIndex": 279,
+    "kana": "しつもん",
+    "kanji": "質問",
+    "classification": ["noun"],
+    "definition": "question, inquiry"
+  },
+  {
+    "wikipediaIndex": 280,
+    "kana": "じてんしゃ",
+    "kanji": "自転車",
+    "classification": ["noun"],
+    "definition": "bicycle"
+  },
+  {
+    "wikipediaIndex": 281,
+    "kana": "じどうしゃ",
+    "kanji": "自動車",
+    "classification": ["noun"],
+    "definition": "automobile"
+  },
+  {
+    "wikipediaIndex": 282,
+    "kana": "しぬ",
+    "kanji": "死ぬ",
+    "classification": ["type I verb"],
+    "definition": "to die"
+  },
+  {
+    "wikipediaIndex": 283,
+    "kana": "じびき",
+    "kanji": "字引",
+    "classification": ["noun"],
+    "definition": "dictionary"
+  },
+  {
+    "wikipediaIndex": 284,
+    "kana": "じぶん",
+    "kanji": "自分",
+    "classification": ["noun"],
+    "definition": "myself, oneself"
+  },
+  {
+    "wikipediaIndex": 285,
+    "kana": "しまる",
+    "kanji": "閉まる",
+    "classification": ["type I verb"],
+    "definition": "to close, to be closed"
+  },
+  {
+    "wikipediaIndex": 286,
+    "kana": "しめる",
+    "kanji": "閉める",
+    "classification": [],
+    "definition": "to close, to shut"
+  },
+  {
+    "wikipediaIndex": 287,
+    "kana": "しめる",
+    "kanji": "締める",
+    "classification": [],
+    "definition": "to tie, to fasten"
+  },
+  {
+    "wikipediaIndex": 288,
+    "kana": "じゃ （感動詞）",
+    "kanji": null,
+    "classification": [],
+    "definition": "well, well then"
+  },
+  {
+    "wikipediaIndex": 289,
+    "kana": "じゃあ （感動詞）",
+    "kanji": null,
+    "classification": [],
+    "definition": "well, well then"
+  },
+  {
+    "wikipediaIndex": 290,
+    "kana": "しゃしん",
+    "kanji": "写真",
+    "classification": ["noun"],
+    "definition": "photograph"
+  },
+  {
+    "wikipediaIndex": 291,
+    "kana": "シャツ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "shirt, singlet"
+  },
+  {
+    "wikipediaIndex": 292,
+    "kana": "じゅう",
+    "kanji": "十",
+    "classification": ["noun"],
+    "definition": "ten"
+  },
+  {
+    "wikipediaIndex": 293,
+    "kana": "~しゅうかん",
+    "kanji": "~週間",
+    "classification": ["suffix"],
+    "definition": "~weeks"
+  },
+  {
+    "wikipediaIndex": 294,
+    "kana": "じゅぎょう",
+    "kanji": "授業",
+    "classification": ["noun"],
+    "definition": "lesson, class work"
+  },
+  {
+    "wikipediaIndex": 295,
+    "kana": "しゅくだい",
+    "kanji": "宿題",
+    "classification": ["noun"],
+    "definition": "homework"
+  },
+  {
+    "wikipediaIndex": 296,
+    "kana": "じょうず",
+    "kanji": "上手",
+    "classification": ["adjective"],
+    "definition": "skill, skillful, dexterity"
+  },
+  {
+    "wikipediaIndex": 297,
+    "kana": "じょうぶ",
+    "kanji": "丈夫",
+    "classification": [],
+    "definition": "hero, gentleman, warrior, good health, robustness"
+  },
+  {
+    "wikipediaIndex": 298,
+    "kana": "しょうゆ",
+    "kanji": "醤油",
+    "classification": ["noun"],
+    "definition": "soy sauce"
+  },
+  {
+    "wikipediaIndex": 299,
+    "kana": "しょくどう",
+    "kanji": "食堂",
+    "classification": ["noun"],
+    "definition": "cafeteria, dining hall"
+  },
+  {
+    "wikipediaIndex": 300,
+    "kana": "しる",
+    "kanji": "知る",
+    "classification": [],
+    "definition": "to know, to understand, to be acquainted with, to feel"
+  },
+  {
+    "wikipediaIndex": 301,
+    "kana": "しろい",
+    "kanji": "白い",
+    "classification": ["noun"],
+    "definition": "white"
+  },
+  {
+    "wikipediaIndex": 302,
+    "kana": "~じん",
+    "kanji": "~人",
+    "classification": ["suffix"],
+    "definition": "~person"
+  },
+  {
+    "wikipediaIndex": 303,
+    "kana": "しんぶん",
+    "kanji": "新聞",
+    "classification": ["noun"],
+    "definition": "newspaper"
+  },
+  {
+    "wikipediaIndex": 304,
+    "kana": "すいようび",
+    "kanji": "水曜日",
+    "classification": ["noun"],
+    "definition": "Wednesday"
+  },
+  {
+    "wikipediaIndex": 305,
+    "kana": "すう",
+    "kanji": "吸う",
+    "classification": ["type I verb"],
+    "definition": "to smoke, to breathe, to suck in"
+  },
+  {
+    "wikipediaIndex": 306,
+    "kana": "スカート",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "skirt"
+  },
+  {
+    "wikipediaIndex": 307,
+    "kana": "すき",
+    "kanji": "好き",
+    "classification": [],
+    "definition": "liking, fondness, love"
+  },
+  {
+    "wikipediaIndex": 308,
+    "kana": "~すぎ",
+    "kanji": null,
+    "classification": [],
+    "definition": "past, after, too much"
+  },
+  {
+    "wikipediaIndex": 309,
+    "kana": "すぐに",
+    "kanji": null,
+    "classification": [],
+    "definition": "instantly"
+  },
+  {
+    "wikipediaIndex": 310,
+    "kana": "すこし",
+    "kanji": "少し",
+    "classification": ["noun"],
+    "definition": "small quantity, little, few, little while, short distance"
+  },
+  {
+    "wikipediaIndex": 311,
+    "kana": "すずしい",
+    "kanji": "涼しい",
+    "classification": ["adjective"],
+    "definition": "cool, refreshing"
+  },
+  {
+    "wikipediaIndex": 312,
+    "kana": "~ずつ",
+    "kanji": null,
+    "classification": ["suffix"],
+    "definition": "apiece, each, at a time"
+  },
+  {
+    "wikipediaIndex": 313,
+    "kana": "ストーブ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "heater"
+  },
+  {
+    "wikipediaIndex": 314,
+    "kana": "スプーン",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "spoon"
+  },
+  {
+    "wikipediaIndex": 315,
+    "kana": "スポーツ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "sport(s)"
+  },
+  {
+    "wikipediaIndex": 316,
+    "kana": "ズボン",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "trousers"
+  },
+  {
+    "wikipediaIndex": 317,
+    "kana": "すむ",
+    "kanji": "住む",
+    "classification": ["type I verb"],
+    "definition": "to abide, to reside, to live in, to inhabit, to dwell"
+  },
+  {
+    "wikipediaIndex": 318,
+    "kana": "スリッパ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "slippers"
+  },
+  {
+    "wikipediaIndex": 319,
+    "kana": "する",
+    "kanji": null,
+    "classification": ["type I verb"],
+    "definition": "to do, to try"
+  },
+  {
+    "wikipediaIndex": 320,
+    "kana": "すわる",
+    "kanji": "座る",
+    "classification": ["type I verb"],
+    "definition": "to sit"
+  },
+  {
+    "wikipediaIndex": 321,
+    "kana": "せい",
+    "kanji": "背",
+    "classification": ["noun"],
+    "definition": "height, stature"
+  },
+  {
+    "wikipediaIndex": 322,
+    "kana": "せいと",
+    "kanji": "生徒",
+    "classification": ["noun"],
+    "definition": "pupil"
+  },
+  {
+    "wikipediaIndex": 323,
+    "kana": "セーター",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "sweater"
+  },
+  {
+    "wikipediaIndex": 324,
+    "kana": "せっけん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "soap"
+  },
+  {
+    "wikipediaIndex": 325,
+    "kana": "せびろ",
+    "kanji": "背広",
+    "classification": ["noun"],
+    "definition": "business suit"
+  },
+  {
+    "wikipediaIndex": 326,
+    "kana": "せまい",
+    "kanji": "狭い",
+    "classification": ["adjective"],
+    "definition": "narrow, confined, small"
+  },
+  {
+    "wikipediaIndex": 327,
+    "kana": "ゼロ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "zero"
+  },
+  {
+    "wikipediaIndex": 328,
+    "kana": "せん",
+    "kanji": "千",
+    "classification": ["noun"],
+    "definition": "thousand, many"
+  },
+  {
+    "wikipediaIndex": 329,
+    "kana": "せんげつ",
+    "kanji": "先月",
+    "classification": ["noun"],
+    "definition": "last month"
+  },
+  {
+    "wikipediaIndex": 330,
+    "kana": "せんしゅう",
+    "kanji": "先週",
+    "classification": ["noun"],
+    "definition": "last week, the week before"
+  },
+  {
+    "wikipediaIndex": 331,
+    "kana": "せんせい",
+    "kanji": "先生",
+    "classification": ["noun"],
+    "definition": "teacher, master, doctor"
+  },
+  {
+    "wikipediaIndex": 332,
+    "kana": "せんたく",
+    "kanji": "洗濯",
+    "classification": ["noun"],
+    "definition": "washing, laundry"
+  },
+  {
+    "wikipediaIndex": 333,
+    "kana": "ぜんぶ",
+    "kanji": "全部",
+    "classification": [],
+    "definition": "all, entire, whole, altogether"
+  },
+  {
+    "wikipediaIndex": 334,
+    "kana": "そう （そうです）",
+    "kanji": null,
+    "classification": [],
+    "definition": "so, really"
+  },
+  {
+    "wikipediaIndex": 335,
+    "kana": "そうじ",
+    "kanji": "掃除",
+    "classification": ["noun"],
+    "definition": "cleaning, sweeping"
+  },
+  {
+    "wikipediaIndex": 336,
+    "kana": "そうして",
+    "kanji": null,
+    "classification": ["conjunction"],
+    "definition": "and, like that"
+  },
+  {
+    "wikipediaIndex": 337,
+    "kana": "そして",
+    "kanji": null,
+    "classification": ["conjunction"],
+    "definition": "and"
+  },
+  {
+    "wikipediaIndex": 338,
+    "kana": "そこ （指示詞）",
+    "kanji": null,
+    "classification": ["pronoun"],
+    "definition": "that place, there"
+  },
+  {
+    "wikipediaIndex": 339,
+    "kana": "そちら",
+    "kanji": null,
+    "classification": [],
+    "definition": "over there, the other"
+  },
+  {
+    "wikipediaIndex": 340,
+    "kana": "そと",
+    "kanji": "外",
+    "classification": ["noun"],
+    "definition": "outside, exterior"
+  },
+  {
+    "wikipediaIndex": 341,
+    "kana": "その （連体詞）",
+    "kanji": null,
+    "classification": [],
+    "definition": "that, the"
+  },
+  {
+    "wikipediaIndex": 342,
+    "kana": "そば （窓のそば）",
+    "kanji": null,
+    "classification": [],
+    "definition": "near, close, beside, vicinity, proximity, besides, while"
+  },
+  {
+    "wikipediaIndex": 343,
+    "kana": "そら",
+    "kanji": "空",
+    "classification": ["noun"],
+    "definition": "the sky"
+  },
+  {
+    "wikipediaIndex": 344,
+    "kana": "それ （指示詞）",
+    "kanji": null,
+    "classification": ["pronoun"],
+    "definition": "that, it"
+  },
+  {
+    "wikipediaIndex": 345,
+    "kana": "それから",
+    "kanji": null,
+    "classification": ["conjunction"],
+    "definition": "and then, after that"
+  },
+  {
+    "wikipediaIndex": 346,
+    "kana": "それでは",
+    "kanji": null,
+    "classification": [],
+    "definition": "in that situation, well then..."
+  },
+  {
+    "wikipediaIndex": 347,
+    "kana": "~だい",
+    "kanji": "~台",
+    "classification": ["suffix"],
+    "definition": "counter for vehicles"
+  },
+  {
+    "wikipediaIndex": 348,
+    "kana": "だいがく",
+    "kanji": "大学",
+    "classification": ["noun"],
+    "definition": "university"
+  },
+  {
+    "wikipediaIndex": 349,
+    "kana": "たいしかん",
+    "kanji": "大使館",
+    "classification": ["noun"],
+    "definition": "embassy"
+  },
+  {
+    "wikipediaIndex": 350,
+    "kana": "だいじょうぶ",
+    "kanji": "大丈夫",
+    "classification": ["adjective"],
+    "definition": "safe, all right, OK"
+  },
+  {
+    "wikipediaIndex": 351,
+    "kana": "だいすき",
+    "kanji": "大好き",
+    "classification": ["adjective"],
+    "definition": "very likeable, liking very much"
+  },
+  {
+    "wikipediaIndex": 352,
+    "kana": "たいせつ",
+    "kanji": "大切",
+    "classification": ["adjective"],
+    "definition": "important"
+  },
+  {
+    "wikipediaIndex": 353,
+    "kana": "たいてい",
+    "kanji": null,
+    "classification": [],
+    "definition": "usually, generally"
+  },
+  {
+    "wikipediaIndex": 354,
+    "kana": "だいどころ",
+    "kanji": "台所",
+    "classification": ["noun"],
+    "definition": "kitchen"
+  },
+  {
+    "wikipediaIndex": 355,
+    "kana": "たいへん",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "awful, dreadful, terrible, very"
+  },
+  {
+    "wikipediaIndex": 356,
+    "kana": "たかい",
+    "kanji": "高い",
+    "classification": ["adjective"],
+    "definition": "tall, high, expensive"
+  },
+  {
+    "wikipediaIndex": 357,
+    "kana": "たくさん",
+    "kanji": null,
+    "classification": [],
+    "definition": "many, a lot, much"
+  },
+  {
+    "wikipediaIndex": 358,
+    "kana": "タクシー",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "taxi"
+  },
+  {
+    "wikipediaIndex": 359,
+    "kana": "だす",
+    "kanji": "出す",
+    "classification": ["type I verb"],
+    "definition": "to put out, to send"
+  },
+  {
+    "wikipediaIndex": 360,
+    "kana": "~たち",
+    "kanji": null,
+    "classification": [],
+    "definition": "(plural suffix) e.g. watashi = I; watashi-tachi = we"
+  },
+  {
+    "wikipediaIndex": 361,
+    "kana": "たつ",
+    "kanji": "立つ",
+    "classification": ["type I verb"],
+    "definition": "to stand"
+  },
+  {
+    "wikipediaIndex": 362,
+    "kana": "たてもの",
+    "kanji": "建物",
+    "classification": ["noun"],
+    "definition": "building"
+  },
+  {
+    "wikipediaIndex": 363,
+    "kana": "たのしい",
+    "kanji": "楽しい",
+    "classification": ["adjective"],
+    "definition": "enjoyable, fun"
+  },
+  {
+    "wikipediaIndex": 364,
+    "kana": "たのむ",
+    "kanji": "頼む",
+    "classification": ["type I verb"],
+    "definition": "to request, to beg, to ask"
+  },
+  {
+    "wikipediaIndex": 365,
+    "kana": "たばこ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "tobacco, cigarettes"
+  },
+  {
+    "wikipediaIndex": 366,
+    "kana": "たぶん",
+    "kanji": null,
+    "classification": [],
+    "definition": "perhaps, probably"
+  },
+  {
+    "wikipediaIndex": 367,
+    "kana": "たべもの",
+    "kanji": "食べ物",
+    "classification": ["noun"],
+    "definition": "food"
+  },
+  {
+    "wikipediaIndex": 368,
+    "kana": "たべる",
+    "kanji": "食べる",
+    "classification": [],
+    "definition": "to eat"
+  },
+  {
+    "wikipediaIndex": 369,
+    "kana": "たまご",
+    "kanji": "卵",
+    "classification": ["noun"],
+    "definition": "spawn, eggs, roe"
+  },
+  {
+    "wikipediaIndex": 370,
+    "kana": "だれ",
+    "kanji": null,
+    "classification": [],
+    "definition": "who"
+  },
+  {
+    "wikipediaIndex": 371,
+    "kana": "たんじょうび",
+    "kanji": "誕生日",
+    "classification": ["noun"],
+    "definition": "birthday"
+  },
+  {
+    "wikipediaIndex": 372,
+    "kana": "だんだん",
+    "kanji": null,
+    "classification": [],
+    "definition": "gradually, by degrees"
+  },
+  {
+    "wikipediaIndex": 373,
+    "kana": "ちいさい",
+    "kanji": "小さい",
+    "classification": ["adjective"],
+    "definition": "small, little, tiny"
+  },
+  {
+    "wikipediaIndex": 374,
+    "kana": "ちかい",
+    "kanji": "近い",
+    "classification": ["adjective"],
+    "definition": "near, close by, short"
+  },
+  {
+    "wikipediaIndex": 375,
+    "kana": "ちがう",
+    "kanji": "違う",
+    "classification": ["type I verb"],
+    "definition": "to differ (from)"
+  },
+  {
+    "wikipediaIndex": 376,
+    "kana": "ちかく",
+    "kanji": "近く",
+    "classification": ["noun"],
+    "definition": "near, neighborhood, vicinity"
+  },
+  {
+    "wikipediaIndex": 377,
+    "kana": "ちかてつ",
+    "kanji": "地下鉄",
+    "classification": ["noun"],
+    "definition": "underground train, subway"
+  },
+  {
+    "wikipediaIndex": 378,
+    "kana": "ちず",
+    "kanji": "地図",
+    "classification": ["noun"],
+    "definition": "map"
+  },
+  {
+    "wikipediaIndex": 379,
+    "kana": "ちち",
+    "kanji": "父",
+    "classification": ["noun"],
+    "definition": "father (humble)"
+  },
+  {
+    "wikipediaIndex": 380,
+    "kana": "ちゃいろ",
+    "kanji": "茶色",
+    "classification": [],
+    "definition": "light brown, tawny"
+  },
+  {
+    "wikipediaIndex": 381,
+    "kana": "ちゃわん",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "rice bowl, teacup"
+  },
+  {
+    "wikipediaIndex": 382,
+    "kana": "~ちゅう",
+    "kanji": "~中",
+    "classification": [],
+    "definition": "middle, during, in the midst of"
+  },
+  {
+    "wikipediaIndex": 383,
+    "kana": "ちょうど",
+    "kanji": null,
+    "classification": [],
+    "definition": "just, right, exactly"
+  },
+  {
+    "wikipediaIndex": 384,
+    "kana": "ちょっと",
+    "kanji": null,
+    "classification": [],
+    "definition": "just a minute, a short time, a while, just a little, somewhat, easily, readily, rather"
+  },
+  {
+    "wikipediaIndex": 385,
+    "kana": "ついたち",
+    "kanji": "一日",
+    "classification": ["noun"],
+    "definition": "first of the month"
+  },
+  {
+    "wikipediaIndex": 386,
+    "kana": "つかう",
+    "kanji": "使う",
+    "classification": ["type I verb"],
+    "definition": "to use, to handle, to manipulate, to employ, to need, to want, to spend, to consume"
+  },
+  {
+    "wikipediaIndex": 387,
+    "kana": "つかれる",
+    "kanji": "疲れる",
+    "classification": [],
+    "definition": "to get tired, to tire"
+  },
+  {
+    "wikipediaIndex": 388,
+    "kana": "つぎ",
+    "kanji": "次",
+    "classification": ["noun"],
+    "definition": "next, stage, station, subsequent"
+  },
+  {
+    "wikipediaIndex": 389,
+    "kana": "つく",
+    "kanji": "着く",
+    "classification": ["type I verb"],
+    "definition": "to arrive at, to reach"
+  },
+  {
+    "wikipediaIndex": 390,
+    "kana": "つくえ",
+    "kanji": "机",
+    "classification": ["noun"],
+    "definition": "desk"
+  },
+  {
+    "wikipediaIndex": 391,
+    "kana": "つくる",
+    "kanji": "作る",
+    "classification": ["type I verb"],
+    "definition": "to make, to create, to manufacture, to draw up, to write, to compose, to build, to coin, to cultivate, to organize, to establish"
+  },
+  {
+    "wikipediaIndex": 392,
+    "kana": "つける",
+    "kanji": null,
+    "classification": [],
+    "definition": "to attach, to join, to add, to append, to stick, to glue, to fasten, to furnish, to wear, to appraise, to bring alongside, to follow"
+  },
+  {
+    "wikipediaIndex": 393,
+    "kana": "つとめる",
+    "kanji": "勤める",
+    "classification": [],
+    "definition": "to serve, to fill a post, to work (for), to exert oneself, to endeavor, to be diligent"
+  },
+  {
+    "wikipediaIndex": 394,
+    "kana": "つまらない",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "insignificant, boring, trifling"
+  },
+  {
+    "wikipediaIndex": 395,
+    "kana": "つめたい",
+    "kanji": "冷たい",
+    "classification": ["adjective"],
+    "definition": "cold, icy, freezing, coldhearted"
+  },
+  {
+    "wikipediaIndex": 396,
+    "kana": "つよい",
+    "kanji": "強い",
+    "classification": ["adjective"],
+    "definition": "strong, powerful, mighty, potent"
+  },
+  {
+    "wikipediaIndex": 397,
+    "kana": "て",
+    "kanji": "手",
+    "classification": ["noun"],
+    "definition": "hand"
+  },
+  {
+    "wikipediaIndex": 398,
+    "kana": "テープ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "tape"
+  },
+  {
+    "wikipediaIndex": 399,
+    "kana": "テープレコーダー",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "tape recorder"
+  },
+  {
+    "wikipediaIndex": 400,
+    "kana": "テーブル",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "table"
+  },
+  {
+    "wikipediaIndex": 401,
+    "kana": "でかける",
+    "kanji": "出かける",
+    "classification": [],
+    "definition": "to depart, to go out, to set out, to start"
+  },
+  {
+    "wikipediaIndex": 402,
+    "kana": "てがみ",
+    "kanji": "手紙",
+    "classification": ["noun"],
+    "definition": "letter"
+  },
+  {
+    "wikipediaIndex": 403,
+    "kana": "できる （英語ができる）",
+    "kanji": null,
+    "classification": [],
+    "definition": "to be able to, to be ready, to occur"
+  },
+  {
+    "wikipediaIndex": 404,
+    "kana": "でぐち",
+    "kanji": "出口",
+    "classification": ["noun"],
+    "definition": "exit, gateway, outlet, leak, vent"
+  },
+  {
+    "wikipediaIndex": 405,
+    "kana": "テスト",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "test"
+  },
+  {
+    "wikipediaIndex": 406,
+    "kana": "では （感動詞）",
+    "kanji": null,
+    "classification": [],
+    "definition": "then, well, so, well then"
+  },
+  {
+    "wikipediaIndex": 407,
+    "kana": "デパート",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "department store"
+  },
+  {
+    "wikipediaIndex": 408,
+    "kana": "でも",
+    "kanji": null,
+    "classification": ["conjunction"],
+    "definition": "but, however"
+  },
+  {
+    "wikipediaIndex": 409,
+    "kana": "でる",
+    "kanji": "出る",
+    "classification": [],
+    "definition": "to appear, to come forth, to leave"
+  },
+  {
+    "wikipediaIndex": 410,
+    "kana": "テレビ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "television, TV"
+  },
+  {
+    "wikipediaIndex": 411,
+    "kana": "てんき",
+    "kanji": "天気",
+    "classification": ["noun"],
+    "definition": "weather, the elements"
+  },
+  {
+    "wikipediaIndex": 412,
+    "kana": "でんき",
+    "kanji": "電気",
+    "classification": ["noun"],
+    "definition": "electricity, (electric) light"
+  },
+  {
+    "wikipediaIndex": 413,
+    "kana": "でんしゃ",
+    "kanji": "電車",
+    "classification": ["noun"],
+    "definition": "electric train"
+  },
+  {
+    "wikipediaIndex": 414,
+    "kana": "でんわ",
+    "kanji": "電話",
+    "classification": ["noun"],
+    "definition": "telephone"
+  },
+  {
+    "wikipediaIndex": 415,
+    "kana": "と",
+    "kanji": "戸",
+    "classification": ["noun"],
+    "definition": "door (Japanese style)"
+  },
+  {
+    "wikipediaIndex": 416,
+    "kana": "~ど",
+    "kanji": "~度",
+    "classification": ["suffix"],
+    "definition": "counter for occurences"
+  },
+  {
+    "wikipediaIndex": 417,
+    "kana": "ドア",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "door (Western style)"
+  },
+  {
+    "wikipediaIndex": 418,
+    "kana": "トイレ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "toilet, restroom, bathroom, lavatory"
+  },
+  {
+    "wikipediaIndex": 419,
+    "kana": "どう （副詞）",
+    "kanji": null,
+    "classification": [],
+    "definition": "how, in what way"
+  },
+  {
+    "wikipediaIndex": 420,
+    "kana": "どうして",
+    "kanji": null,
+    "classification": [],
+    "definition": "why?, for what reason, how, in what way, for what purpose, what for"
+  },
+  {
+    "wikipediaIndex": 421,
+    "kana": "どうぞ",
+    "kanji": null,
+    "classification": [],
+    "definition": "please, kindly, by all means"
+  },
+  {
+    "wikipediaIndex": 422,
+    "kana": "どうぶつ",
+    "kanji": "動物",
+    "classification": ["noun"],
+    "definition": "animal"
+  },
+  {
+    "wikipediaIndex": 423,
+    "kana": "どうも",
+    "kanji": null,
+    "classification": [],
+    "definition": "thanks, how, (very) much, very, quite, really, somehow"
+  },
+  {
+    "wikipediaIndex": 424,
+    "kana": "とお",
+    "kanji": "十",
+    "classification": ["noun"],
+    "definition": "ten"
+  },
+  {
+    "wikipediaIndex": 425,
+    "kana": "とおい",
+    "kanji": "遠い",
+    "classification": ["adjective"],
+    "definition": "far, distant"
+  },
+  {
+    "wikipediaIndex": 426,
+    "kana": "とおか",
+    "kanji": "十日",
+    "classification": ["noun"],
+    "definition": "ten days, the 10th of the month"
+  },
+  {
+    "wikipediaIndex": 427,
+    "kana": "ときどき",
+    "kanji": "時々",
+    "classification": [],
+    "definition": "sometimes"
+  },
+  {
+    "wikipediaIndex": 428,
+    "kana": "とけい",
+    "kanji": "時計",
+    "classification": ["noun"],
+    "definition": "watch, clock"
+  },
+  {
+    "wikipediaIndex": 429,
+    "kana": "どこ",
+    "kanji": null,
+    "classification": [],
+    "definition": "where, what place"
+  },
+  {
+    "wikipediaIndex": 430,
+    "kana": "ところ",
+    "kanji": "所",
+    "classification": ["noun"],
+    "definition": "place"
+  },
+  {
+    "wikipediaIndex": 431,
+    "kana": "としょかん",
+    "kanji": "図書館",
+    "classification": ["noun"],
+    "definition": "library"
+  },
+  {
+    "wikipediaIndex": 432,
+    "kana": "どちら",
+    "kanji": null,
+    "classification": [],
+    "definition": "which (of two), who"
+  },
+  {
+    "wikipediaIndex": 433,
+    "kana": "とても",
+    "kanji": null,
+    "classification": ["adverb"],
+    "definition": "very, awfully, exceedingly"
+  },
+  {
+    "wikipediaIndex": 434,
+    "kana": "どなた",
+    "kanji": null,
+    "classification": [],
+    "definition": "who?"
+  },
+  {
+    "wikipediaIndex": 435,
+    "kana": "となり",
+    "kanji": "隣",
+    "classification": [],
+    "definition": "next to, next door to"
+  },
+  {
+    "wikipediaIndex": 436,
+    "kana": "どの （どの人）",
+    "kanji": null,
+    "classification": [],
+    "definition": "which, what (way)"
+  },
+  {
+    "wikipediaIndex": 437,
+    "kana": "とぶ",
+    "kanji": "飛ぶ",
+    "classification": [],
+    "definition": "to jump, to fly, to leap, to spring, to bound, to hop"
+  },
+  {
+    "wikipediaIndex": 438,
+    "kana": "とまる",
+    "kanji": "止まる",
+    "classification": [],
+    "definition": "to stop, to come to a halt"
+  },
+  {
+    "wikipediaIndex": 439,
+    "kana": "ともだち",
+    "kanji": "友達",
+    "classification": ["noun"],
+    "definition": "friend"
+  },
+  {
+    "wikipediaIndex": 440,
+    "kana": "どようび",
+    "kanji": "土曜日",
+    "classification": ["noun"],
+    "definition": "Saturday"
+  },
+  {
+    "wikipediaIndex": 441,
+    "kana": "とり",
+    "kanji": "鳥",
+    "classification": ["noun"],
+    "definition": "bird, fowl, poultry"
+  },
+  {
+    "wikipediaIndex": 442,
+    "kana": "とりにく",
+    "kanji": "鳥肉",
+    "classification": ["noun"],
+    "definition": "chicken meat"
+  },
+  {
+    "wikipediaIndex": 443,
+    "kana": "とる",
+    "kanji": "取る",
+    "classification": [],
+    "definition": "to take, to pick up, to harvest, to earn, to choose"
+  },
+  {
+    "wikipediaIndex": 444,
+    "kana": "とる",
+    "kanji": "撮る",
+    "classification": [],
+    "definition": "to take (photo), to make (film)"
+  },
+  {
+    "wikipediaIndex": 445,
+    "kana": "どれ",
+    "kanji": null,
+    "classification": [],
+    "definition": "well, now, let me see, which (3 or more)"
+  },
+  {
+    "wikipediaIndex": 446,
+    "kana": "どんな",
+    "kanji": null,
+    "classification": [],
+    "definition": "what, what kind of"
+  },
+  {
+    "wikipediaIndex": 447,
+    "kana": "ない",
+    "kanji": null,
+    "classification": [],
+    "definition": "there isn't, doesn't have"
+  },
+  {
+    "wikipediaIndex": 448,
+    "kana": "ナイフ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "knife"
+  },
+  {
+    "wikipediaIndex": 449,
+    "kana": "なか",
+    "kanji": "中",
+    "classification": [],
+    "definition": "inside, middle, among"
+  },
+  {
+    "wikipediaIndex": 450,
+    "kana": "ながい",
+    "kanji": "長い",
+    "classification": ["adjective"],
+    "definition": "long"
+  },
+  {
+    "wikipediaIndex": 451,
+    "kana": "なく",
+    "kanji": "鳴く",
+    "classification": ["type I verb"],
+    "definition": "to bark, to purr, to make animal sound"
+  },
+  {
+    "wikipediaIndex": 452,
+    "kana": "なつ",
+    "kanji": "夏",
+    "classification": ["noun"],
+    "definition": "summer"
+  },
+  {
+    "wikipediaIndex": 453,
+    "kana": "なつやすみ",
+    "kanji": "夏休み",
+    "classification": ["noun"],
+    "definition": "summer vacation"
+  },
+  {
+    "wikipediaIndex": 454,
+    "kana": "~など",
+    "kanji": null,
+    "classification": [],
+    "definition": "et cetera"
+  },
+  {
+    "wikipediaIndex": 455,
+    "kana": "ななつ",
+    "kanji": "七つ",
+    "classification": ["noun"],
+    "definition": "seven"
+  },
+  {
+    "wikipediaIndex": 456,
+    "kana": "なに",
+    "kanji": "何",
+    "classification": [],
+    "definition": "what"
+  },
+  {
+    "wikipediaIndex": 457,
+    "kana": "なん",
+    "kanji": "何",
+    "classification": [],
+    "definition": "what"
+  },
+  {
+    "wikipediaIndex": 458,
+    "kana": "なのか",
+    "kanji": "七日",
+    "classification": ["noun"],
+    "definition": "seven days, the seventh day (of the month)"
+  },
+  {
+    "wikipediaIndex": 459,
+    "kana": "なまえ",
+    "kanji": "名前",
+    "classification": ["noun"],
+    "definition": "name"
+  },
+  {
+    "wikipediaIndex": 460,
+    "kana": "ならう",
+    "kanji": "習う",
+    "classification": ["type I verb"],
+    "definition": "to learn"
+  },
+  {
+    "wikipediaIndex": 461,
+    "kana": "ならぶ",
+    "kanji": "並ぶ",
+    "classification": ["type I verb"],
+    "definition": "to line up, to stand in a line"
+  },
+  {
+    "wikipediaIndex": 462,
+    "kana": "ならべる",
+    "kanji": "並べる",
+    "classification": [],
+    "definition": "to line up, to set up"
+  },
+  {
+    "wikipediaIndex": 463,
+    "kana": "なる",
+    "kanji": null,
+    "classification": ["type I verb"],
+    "definition": "to become"
+  },
+  {
+    "wikipediaIndex": 464,
+    "kana": "に",
+    "kanji": "二",
+    "classification": ["noun"],
+    "definition": "two"
+  },
+  {
+    "wikipediaIndex": 465,
+    "kana": "にぎやか",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "bustling, busy"
+  },
+  {
+    "wikipediaIndex": 466,
+    "kana": "にく",
+    "kanji": "肉",
+    "classification": ["noun"],
+    "definition": "meat"
+  },
+  {
+    "wikipediaIndex": 467,
+    "kana": "にし",
+    "kanji": "西",
+    "classification": ["noun"],
+    "definition": "west"
+  },
+  {
+    "wikipediaIndex": 468,
+    "kana": "~にち",
+    "kanji": "~日",
+    "classification": [],
+    "definition": "day of the month"
+  },
+  {
+    "wikipediaIndex": 469,
+    "kana": "にちようび",
+    "kanji": "日曜日",
+    "classification": ["noun"],
+    "definition": "Sunday"
+  },
+  {
+    "wikipediaIndex": 470,
+    "kana": "にもつ",
+    "kanji": "荷物",
+    "classification": ["noun"],
+    "definition": "luggage"
+  },
+  {
+    "wikipediaIndex": 471,
+    "kana": "ニュース",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "news"
+  },
+  {
+    "wikipediaIndex": 472,
+    "kana": "にわ",
+    "kanji": "庭",
+    "classification": ["noun"],
+    "definition": "garden"
+  },
+  {
+    "wikipediaIndex": 473,
+    "kana": "~にん",
+    "kanji": "~人",
+    "classification": [],
+    "definition": "counter for people"
+  },
+  {
+    "wikipediaIndex": 474,
+    "kana": "ぬぐ",
+    "kanji": "脱ぐ",
+    "classification": ["type I verb"],
+    "definition": "to take off clothes"
+  },
+  {
+    "wikipediaIndex": 475,
+    "kana": "ネクタイ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "necktie"
+  },
+  {
+    "wikipediaIndex": 476,
+    "kana": "ねる",
+    "kanji": "寝る",
+    "classification": ["type I verb"],
+    "definition": "to sleep, to lie down"
+  },
+  {
+    "wikipediaIndex": 477,
+    "kana": "~ねん",
+    "kanji": "~年",
+    "classification": ["suffix"],
+    "definition": "~year(s)"
+  },
+  {
+    "wikipediaIndex": 478,
+    "kana": "ノート",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "notebook, copybook, exercise book"
+  },
+  {
+    "wikipediaIndex": 479,
+    "kana": "のぼる",
+    "kanji": "登る",
+    "classification": ["type I verb"],
+    "definition": "to climb"
+  },
+  {
+    "wikipediaIndex": 480,
+    "kana": "のみもの",
+    "kanji": "飲み物",
+    "classification": ["noun"],
+    "definition": "drink, beverage"
+  },
+  {
+    "wikipediaIndex": 481,
+    "kana": "のむ",
+    "kanji": "飲む",
+    "classification": ["type I verb"],
+    "definition": "to drink"
+  },
+  {
+    "wikipediaIndex": 482,
+    "kana": "のる",
+    "kanji": "乗る",
+    "classification": ["type I verb"],
+    "definition": "to get on, to ride in, to board, to mount, to get up on, to share in, to join, to feel like doing, to be mentioned in, to be in harmony with"
+  },
+  {
+    "wikipediaIndex": 483,
+    "kana": "は",
+    "kanji": "歯",
+    "classification": ["noun"],
+    "definition": "tooth"
+  },
+  {
+    "wikipediaIndex": 484,
+    "kana": "パーティー",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "party"
+  },
+  {
+    "wikipediaIndex": 485,
+    "kana": "はい",
+    "kanji": null,
+    "classification": [],
+    "definition": "yes"
+  },
+  {
+    "wikipediaIndex": 486,
+    "kana": "~はい",
+    "kanji": "~杯",
+    "classification": ["suffix"],
+    "definition": "counter for cupfuls"
+  },
+  {
+    "wikipediaIndex": 487,
+    "kana": "はいざら",
+    "kanji": "灰皿",
+    "classification": ["noun"],
+    "definition": "ashtray"
+  },
+  {
+    "wikipediaIndex": 488,
+    "kana": "はいる",
+    "kanji": "入る",
+    "classification": ["type I verb"],
+    "definition": "to enter/to break into/to join/to enroll/to contain/to hold/to accommodate/to have (an income of)"
+  },
+  {
+    "wikipediaIndex": 489,
+    "kana": "はがき",
+    "kanji": "葉書",
+    "classification": ["noun"],
+    "definition": "postcard"
+  },
+  {
+    "wikipediaIndex": 490,
+    "kana": "はく",
+    "kanji": null,
+    "classification": ["type I verb"],
+    "definition": "to wear/to put on (a sword)"
+  },
+  {
+    "wikipediaIndex": 491,
+    "kana": "はこ",
+    "kanji": "箱",
+    "classification": ["noun"],
+    "definition": "box"
+  },
+  {
+    "wikipediaIndex": 492,
+    "kana": "はし",
+    "kanji": "橋",
+    "classification": ["noun"],
+    "definition": "bridge"
+  },
+  {
+    "wikipediaIndex": 493,
+    "kana": "はし",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "chopsticks"
+  },
+  {
+    "wikipediaIndex": 494,
+    "kana": "はじまる",
+    "kanji": "始まる",
+    "classification": ["type I verb"],
+    "definition": "to begin"
+  },
+  {
+    "wikipediaIndex": 495,
+    "kana": "はじめに",
+    "kanji": "初めに",
+    "classification": [],
+    "definition": "to begin with/first of all"
+  },
+  {
+    "wikipediaIndex": 496,
+    "kana": "はじめて",
+    "kanji": "初めて",
+    "classification": [],
+    "definition": "for the first time"
+  },
+  {
+    "wikipediaIndex": 497,
+    "kana": "はしる",
+    "kanji": "走る",
+    "classification": [],
+    "definition": "to run"
+  },
+  {
+    "wikipediaIndex": 498,
+    "kana": "バス",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "bus/bath/bass"
+  },
+  {
+    "wikipediaIndex": 499,
+    "kana": "バター",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "butter"
+  },
+  {
+    "wikipediaIndex": 500,
+    "kana": "はたち",
+    "kanji": "二十歳",
+    "classification": ["noun"],
+    "definition": "20 years old/20th year"
+  },
+  {
+    "wikipediaIndex": 501,
+    "kana": "はたらく",
+    "kanji": "働く",
+    "classification": ["type I verb"],
+    "definition": "to work/to labor/to do/to act/to commit/to practise/to work on/to come into play/to be conjugated/to reduce the price"
+  },
+  {
+    "wikipediaIndex": 502,
+    "kana": "はち",
+    "kanji": "八",
+    "classification": ["noun"],
+    "definition": "eight"
+  },
+  {
+    "wikipediaIndex": 503,
+    "kana": "はつか",
+    "kanji": "二十日",
+    "classification": ["noun"],
+    "definition": "twenty days/twentieth (day of the month)"
+  },
+  {
+    "wikipediaIndex": 504,
+    "kana": "はな",
+    "kanji": "花",
+    "classification": ["noun"],
+    "definition": "flower"
+  },
+  {
+    "wikipediaIndex": 505,
+    "kana": "はな",
+    "kanji": "鼻",
+    "classification": ["noun"],
+    "definition": "nose"
+  },
+  {
+    "wikipediaIndex": 506,
+    "kana": "はなし",
+    "kanji": "話",
+    "classification": ["noun"],
+    "definition": "talk/speech/chat/story/conversation"
+  },
+  {
+    "wikipediaIndex": 507,
+    "kana": "はなす",
+    "kanji": "話す",
+    "classification": ["type I verb"],
+    "definition": "to speak"
+  },
+  {
+    "wikipediaIndex": 508,
+    "kana": "はは",
+    "kanji": "母",
+    "classification": ["noun"],
+    "definition": "mother"
+  },
+  {
+    "wikipediaIndex": 509,
+    "kana": "はやい",
+    "kanji": "早い",
+    "classification": ["adjective"],
+    "definition": "early"
+  },
+  {
+    "wikipediaIndex": 510,
+    "kana": "はやい",
+    "kanji": "速い",
+    "classification": ["adjective"],
+    "definition": "quick/fast/swift"
+  },
+  {
+    "wikipediaIndex": 511,
+    "kana": "はる",
+    "kanji": "春",
+    "classification": [],
+    "definition": "spring"
+  },
+  {
+    "wikipediaIndex": 512,
+    "kana": "はる",
+    "kanji": null,
+    "classification": ["type I verb"],
+    "definition": "to stick/to paste"
+  },
+  {
+    "wikipediaIndex": 513,
+    "kana": "はれる",
+    "kanji": "晴れる",
+    "classification": [],
+    "definition": "to be sunny/to clear away/to stop raining"
+  },
+  {
+    "wikipediaIndex": 514,
+    "kana": "はん",
+    "kanji": "半",
+    "classification": ["noun"],
+    "definition": "half"
+  },
+  {
+    "wikipediaIndex": 515,
+    "kana": "ばん",
+    "kanji": "晩",
+    "classification": ["noun"],
+    "definition": "evening"
+  },
+  {
+    "wikipediaIndex": 516,
+    "kana": "～ばん",
+    "kanji": "～番",
+    "classification": ["suffix"],
+    "definition": "number ～"
+  },
+  {
+    "wikipediaIndex": 517,
+    "kana": "パン",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "bread/panning"
+  },
+  {
+    "wikipediaIndex": 518,
+    "kana": "ハンカチ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "handkerchief"
+  },
+  {
+    "wikipediaIndex": 519,
+    "kana": "ばんごう",
+    "kanji": "番号",
+    "classification": ["noun"],
+    "definition": "number/series of digits"
+  },
+  {
+    "wikipediaIndex": 520,
+    "kana": "ばんごはん",
+    "kanji": "晩御飯",
+    "classification": ["noun"],
+    "definition": "dinner/evening meal"
+  },
+  {
+    "wikipediaIndex": 521,
+    "kana": "はんぶん",
+    "kanji": "半分",
+    "classification": ["noun"],
+    "definition": "half minute"
+  },
+  {
+    "wikipediaIndex": 522,
+    "kana": "ひがし",
+    "kanji": "東",
+    "classification": ["noun"],
+    "definition": "east"
+  },
+  {
+    "wikipediaIndex": 523,
+    "kana": "~ひき",
+    "kanji": "~匹",
+    "classification": ["suffix"],
+    "definition": "small animal counter"
+  },
+  {
+    "wikipediaIndex": 524,
+    "kana": "ひく",
+    "kanji": "引く",
+    "classification": ["type I verb"],
+    "definition": "minus/to pull/to play (stringed instr.)"
+  },
+  {
+    "wikipediaIndex": 525,
+    "kana": "ひく",
+    "kanji": "弾く",
+    "classification": ["type I verb"],
+    "definition": "to play (piano, guitar)"
+  },
+  {
+    "wikipediaIndex": 526,
+    "kana": "ひくい",
+    "kanji": "低い",
+    "classification": ["adjective"],
+    "definition": "short/low/humble/low (voice)"
+  },
+  {
+    "wikipediaIndex": 527,
+    "kana": "ひこうき",
+    "kanji": "飛行機",
+    "classification": ["noun"],
+    "definition": "airplane"
+  },
+  {
+    "wikipediaIndex": 528,
+    "kana": "ひだり",
+    "kanji": "左",
+    "classification": ["noun"],
+    "definition": "left hand side"
+  },
+  {
+    "wikipediaIndex": 529,
+    "kana": "ひと",
+    "kanji": "人",
+    "classification": ["noun"],
+    "definition": "man/person/human being/mankind/people/character/personality/true man/man of talent/adult/other people/messenger/visitor"
+  },
+  {
+    "wikipediaIndex": 530,
+    "kana": "ひとつ",
+    "kanji": "一つ",
+    "classification": ["noun"],
+    "definition": "one"
+  },
+  {
+    "wikipediaIndex": 531,
+    "kana": "ひとつき",
+    "kanji": "一月",
+    "classification": ["noun"],
+    "definition": "one month"
+  },
+  {
+    "wikipediaIndex": 532,
+    "kana": "ひとり",
+    "kanji": "一人",
+    "classification": ["noun"],
+    "definition": "one person"
+  },
+  {
+    "wikipediaIndex": 533,
+    "kana": "ひま",
+    "kanji": "暇",
+    "classification": ["noun"],
+    "definition": "(1) free time/leisure/leave/spare time (2) farewell"
+  },
+  {
+    "wikipediaIndex": 534,
+    "kana": "ひゃく",
+    "kanji": "百",
+    "classification": ["noun"],
+    "definition": "100/hundred"
+  },
+  {
+    "wikipediaIndex": 535,
+    "kana": "びょういん",
+    "kanji": "病院",
+    "classification": ["noun"],
+    "definition": "hospital"
+  },
+  {
+    "wikipediaIndex": 536,
+    "kana": "びょうき",
+    "kanji": "病気",
+    "classification": ["noun"],
+    "definition": "illness/disease/sickness"
+  },
+  {
+    "wikipediaIndex": 537,
+    "kana": "ひらがな",
+    "kanji": "平仮名",
+    "classification": ["noun"],
+    "definition": "hiragana/47 syllables/the \"cursive\" syllabary"
+  },
+  {
+    "wikipediaIndex": 538,
+    "kana": "ひる",
+    "kanji": "昼",
+    "classification": ["noun"],
+    "definition": "noon/daytime"
+  },
+  {
+    "wikipediaIndex": 539,
+    "kana": "ひるごはん",
+    "kanji": "昼御飯",
+    "classification": ["noun"],
+    "definition": "lunch/midday meal"
+  },
+  {
+    "wikipediaIndex": 540,
+    "kana": "ひろい",
+    "kanji": "広い",
+    "classification": ["adjective"],
+    "definition": "spacious/vast/wide"
+  },
+  {
+    "wikipediaIndex": 541,
+    "kana": "フィルム",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "film (roll of)"
+  },
+  {
+    "wikipediaIndex": 542,
+    "kana": "ふうとう",
+    "kanji": "封筒",
+    "classification": ["noun"],
+    "definition": "envelope"
+  },
+  {
+    "wikipediaIndex": 543,
+    "kana": "プール",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "swimming pool"
+  },
+  {
+    "wikipediaIndex": 544,
+    "kana": "フォーク",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "fork/folk"
+  },
+  {
+    "wikipediaIndex": 545,
+    "kana": "ふく",
+    "kanji": "吹く",
+    "classification": ["type I verb"],
+    "definition": "(1) to blow (e.g. wind) (2) to emit/to spout"
+  },
+  {
+    "wikipediaIndex": 546,
+    "kana": "ふく",
+    "kanji": "服",
+    "classification": ["noun"],
+    "definition": "clothes"
+  },
+  {
+    "wikipediaIndex": 547,
+    "kana": "ふたつ",
+    "kanji": "二つ",
+    "classification": ["noun"],
+    "definition": "two"
+  },
+  {
+    "wikipediaIndex": 548,
+    "kana": "ぶたにく",
+    "kanji": "豚肉",
+    "classification": ["noun"],
+    "definition": "pork"
+  },
+  {
+    "wikipediaIndex": 549,
+    "kana": "ふたり",
+    "kanji": "二人",
+    "classification": ["noun"],
+    "definition": "two persons/two people/pair/couple"
+  },
+  {
+    "wikipediaIndex": 550,
+    "kana": "ふつか",
+    "kanji": "二日",
+    "classification": ["noun"],
+    "definition": "second day of the month/two days"
+  },
+  {
+    "wikipediaIndex": 551,
+    "kana": "ふとい",
+    "kanji": "太い",
+    "classification": ["adjective"],
+    "definition": "fat/thick"
+  },
+  {
+    "wikipediaIndex": 552,
+    "kana": "ふゆ",
+    "kanji": "冬",
+    "classification": ["noun"],
+    "definition": "winter"
+  },
+  {
+    "wikipediaIndex": 553,
+    "kana": "ふる",
+    "kanji": "降る",
+    "classification": ["type I verb"],
+    "definition": "to precipitate/to fall (e.g. rain)"
+  },
+  {
+    "wikipediaIndex": 554,
+    "kana": "ふるい",
+    "kanji": "古い",
+    "classification": ["adjective"],
+    "definition": "old (not of person)/aged/ancient/antiquated/stale/threadbare/outmoded/obsolete article"
+  },
+  {
+    "wikipediaIndex": 555,
+    "kana": "ふろ",
+    "kanji": "風呂",
+    "classification": ["noun"],
+    "definition": "bath"
+  },
+  {
+    "wikipediaIndex": 556,
+    "kana": "~ふん",
+    "kanji": "~分",
+    "classification": ["suffix"],
+    "definition": "~ minutes"
+  },
+  {
+    "wikipediaIndex": 557,
+    "kana": "へた",
+    "kanji": "下手",
+    "classification": ["adjective"],
+    "definition": "unskillful, poor, awkward"
+  },
+  {
+    "wikipediaIndex": 558,
+    "kana": "ベッド",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "bed"
+  },
+  {
+    "wikipediaIndex": 559,
+    "kana": "へや",
+    "kanji": "部屋",
+    "classification": ["noun"],
+    "definition": "room"
+  },
+  {
+    "wikipediaIndex": 560,
+    "kana": "へん",
+    "kanji": "辺",
+    "classification": ["noun"],
+    "definition": "area, vicinity"
+  },
+  {
+    "wikipediaIndex": 561,
+    "kana": "ペン",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "pen"
+  },
+  {
+    "wikipediaIndex": 562,
+    "kana": "べんきょう",
+    "kanji": "勉強",
+    "classification": ["noun"],
+    "definition": "study, diligence, discount, reduction"
+  },
+  {
+    "wikipediaIndex": 563,
+    "kana": "べんり",
+    "kanji": "便利",
+    "classification": ["adjective"],
+    "definition": "convenient, handy, useful"
+  },
+  {
+    "wikipediaIndex": 564,
+    "kana": "ほう （比較を表す）",
+    "kanji": null,
+    "classification": ["type I verb"],
+    "definition": "divide"
+  },
+  {
+    "wikipediaIndex": 565,
+    "kana": "ぼうし",
+    "kanji": "帽子",
+    "classification": ["noun"],
+    "definition": "hat"
+  },
+  {
+    "wikipediaIndex": 566,
+    "kana": "ボールペン",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "ballpoint pen"
+  },
+  {
+    "wikipediaIndex": 567,
+    "kana": "ほか",
+    "kanji": "外",
+    "classification": ["noun"],
+    "definition": "other place/the rest"
+  },
+  {
+    "wikipediaIndex": 568,
+    "kana": "ポケット",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "pocket"
+  },
+  {
+    "wikipediaIndex": 569,
+    "kana": "ほしい",
+    "kanji": "欲しい",
+    "classification": ["adjective"],
+    "definition": "wanted/wished for/in need of/desired"
+  },
+  {
+    "wikipediaIndex": 570,
+    "kana": "ほそい",
+    "kanji": "細い",
+    "classification": ["adjective"],
+    "definition": "thin/slender/fine"
+  },
+  {
+    "wikipediaIndex": 571,
+    "kana": "ボタン",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "button"
+  },
+  {
+    "wikipediaIndex": 572,
+    "kana": "ホテル",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "hotel"
+  },
+  {
+    "wikipediaIndex": 573,
+    "kana": "ほん",
+    "kanji": "本",
+    "classification": ["noun"],
+    "definition": "book"
+  },
+  {
+    "wikipediaIndex": 574,
+    "kana": "~ほん",
+    "kanji": "~本",
+    "classification": ["suffix"],
+    "definition": "counter for long cylindrical things"
+  },
+  {
+    "wikipediaIndex": 575,
+    "kana": "ほんだな",
+    "kanji": "本棚",
+    "classification": ["noun"],
+    "definition": "bookshelves"
+  },
+  {
+    "wikipediaIndex": 576,
+    "kana": "ほんとうに",
+    "kanji": "本当に",
+    "classification": ["adverb"],
+    "definition": "really/truly"
+  },
+  {
+    "wikipediaIndex": 577,
+    "kana": "~まい",
+    "kanji": "~枚",
+    "classification": ["suffix"],
+    "definition": "counter for flat things"
+  },
+  {
+    "wikipediaIndex": 578,
+    "kana": "まいあさ",
+    "kanji": "毎朝",
+    "classification": ["adjective"],
+    "definition": "every morning"
+  },
+  {
+    "wikipediaIndex": 579,
+    "kana": "まいげつ",
+    "kanji": "毎月",
+    "classification": ["adjective"],
+    "definition": "every month/each month/monthly"
+  },
+  {
+    "wikipediaIndex": 580,
+    "kana": "まいつき",
+    "kanji": "毎月",
+    "classification": ["adjective"],
+    "definition": "every month/each month/monthly"
+  },
+  {
+    "wikipediaIndex": 581,
+    "kana": "まいしゅう",
+    "kanji": "毎週",
+    "classification": ["adjective"],
+    "definition": "every week"
+  },
+  {
+    "wikipediaIndex": 582,
+    "kana": "まいにち",
+    "kanji": "毎日",
+    "classification": ["adjective"],
+    "definition": "every day"
+  },
+  {
+    "wikipediaIndex": 583,
+    "kana": "まいねん",
+    "kanji": "毎年",
+    "classification": ["adjective"],
+    "definition": "every year/yearly/annually"
+  },
+  {
+    "wikipediaIndex": 584,
+    "kana": "まいとし",
+    "kanji": "毎年",
+    "classification": ["adjective"],
+    "definition": "every year/yearly/annually"
+  },
+  {
+    "wikipediaIndex": 585,
+    "kana": "まいばん",
+    "kanji": "毎晩",
+    "classification": ["adjective"],
+    "definition": "every night"
+  },
+  {
+    "wikipediaIndex": 586,
+    "kana": "まえ",
+    "kanji": "前",
+    "classification": [],
+    "definition": "(1) before/in front/fore part/ago/previously (2) head (of a line) (3) in the presence of/lady (so-and-so) (4) (five minutes) to (5) helping/portion"
+  },
+  {
+    "wikipediaIndex": 587,
+    "kana": "~まえ",
+    "kanji": "~前",
+    "classification": ["suffix"],
+    "definition": "before/in front"
+  },
+  {
+    "wikipediaIndex": 588,
+    "kana": "まがる",
+    "kanji": "曲る",
+    "classification": ["type I verb"],
+    "definition": "to turn/to bend"
+  },
+  {
+    "wikipediaIndex": 589,
+    "kana": "まずい",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "unappetising/unpleasant (taste, appearance, situation)/ugly/unskilful/awkward/bungling/unwise/untimely"
+  },
+  {
+    "wikipediaIndex": 590,
+    "kana": "また",
+    "kanji": null,
+    "classification": ["conjunction"],
+    "definition": "again/and"
+  },
+  {
+    "wikipediaIndex": 591,
+    "kana": "まだ",
+    "kanji": null,
+    "classification": [],
+    "definition": "yet/still/more/besides"
+  },
+  {
+    "wikipediaIndex": 592,
+    "kana": "まち",
+    "kanji": "町",
+    "classification": ["noun"],
+    "definition": "(1) town (2) street/road"
+  },
+  {
+    "wikipediaIndex": 593,
+    "kana": "まつ",
+    "kanji": "待つ",
+    "classification": ["type I verb"],
+    "definition": "to wait"
+  },
+  {
+    "wikipediaIndex": 594,
+    "kana": "まっすぐ",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "straight (ahead)/direct/upright/erect/honest/frank"
+  },
+  {
+    "wikipediaIndex": 595,
+    "kana": "マッチ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "match"
+  },
+  {
+    "wikipediaIndex": 596,
+    "kana": "まど",
+    "kanji": "窓",
+    "classification": ["noun"],
+    "definition": "window"
+  },
+  {
+    "wikipediaIndex": 597,
+    "kana": "まるい",
+    "kanji": "丸い",
+    "classification": ["adjective"],
+    "definition": "round/circular/spherical"
+  },
+  {
+    "wikipediaIndex": 598,
+    "kana": "まるい",
+    "kanji": "円い",
+    "classification": ["adjective"],
+    "definition": "round/circular/spherical"
+  },
+  {
+    "wikipediaIndex": 599,
+    "kana": "まん",
+    "kanji": "万",
+    "classification": ["noun"],
+    "definition": "10,000/ten thousand/myriads/all/everything"
+  },
+  {
+    "wikipediaIndex": 600,
+    "kana": "まんねんひつ",
+    "kanji": "万年筆",
+    "classification": ["noun"],
+    "definition": "fountain pen"
+  },
+  {
+    "wikipediaIndex": 601,
+    "kana": "みがく",
+    "kanji": "磨く",
+    "classification": ["type I verb"],
+    "definition": "to polish/to shine/to brush/to refine/to improve"
+  },
+  {
+    "wikipediaIndex": 602,
+    "kana": "みぎ",
+    "kanji": "右",
+    "classification": ["noun"],
+    "definition": "right hand side"
+  },
+  {
+    "wikipediaIndex": 603,
+    "kana": "みじかい",
+    "kanji": "短い",
+    "classification": ["adjective"],
+    "definition": "short"
+  },
+  {
+    "wikipediaIndex": 604,
+    "kana": "みず",
+    "kanji": "水",
+    "classification": ["noun"],
+    "definition": "water"
+  },
+  {
+    "wikipediaIndex": 605,
+    "kana": "みせ",
+    "kanji": "店",
+    "classification": ["noun"],
+    "definition": "store/shop/establishment"
+  },
+  {
+    "wikipediaIndex": 606,
+    "kana": "みせる",
+    "kanji": "見せる",
+    "classification": ["type I verb"],
+    "definition": "to show/to display"
+  },
+  {
+    "wikipediaIndex": 607,
+    "kana": "みち",
+    "kanji": "道",
+    "classification": ["noun"],
+    "definition": "road/street/way/method"
+  },
+  {
+    "wikipediaIndex": 608,
+    "kana": "みっか",
+    "kanji": "三日",
+    "classification": ["noun"],
+    "definition": "three days/the third day (of the month)"
+  },
+  {
+    "wikipediaIndex": 609,
+    "kana": "みっつ",
+    "kanji": "三つ",
+    "classification": ["noun"],
+    "definition": "three"
+  },
+  {
+    "wikipediaIndex": 610,
+    "kana": "みなさん",
+    "kanji": "皆さん",
+    "classification": ["noun"],
+    "definition": "everyone"
+  },
+  {
+    "wikipediaIndex": 611,
+    "kana": "みなみ",
+    "kanji": "南",
+    "classification": ["noun"],
+    "definition": "south/proceeding south"
+  },
+  {
+    "wikipediaIndex": 612,
+    "kana": "みみ",
+    "kanji": "耳",
+    "classification": ["noun"],
+    "definition": "ear"
+  },
+  {
+    "wikipediaIndex": 613,
+    "kana": "みる",
+    "kanji": "見る",
+    "classification": ["type I verb"],
+    "definition": "to see/to watch"
+  },
+  {
+    "wikipediaIndex": 614,
+    "kana": "みんな",
+    "kanji": null,
+    "classification": [],
+    "definition": "all/everyone/everybody"
+  },
+  {
+    "wikipediaIndex": 615,
+    "kana": "むいか",
+    "kanji": "六日",
+    "classification": ["noun"],
+    "definition": "six days/the sixth day (of the month)"
+  },
+  {
+    "wikipediaIndex": 616,
+    "kana": "むこう",
+    "kanji": "向こう",
+    "classification": ["noun"],
+    "definition": "beyond/over there/opposite direction/the other party"
+  },
+  {
+    "wikipediaIndex": 617,
+    "kana": "むずかしい",
+    "kanji": "難しい",
+    "classification": ["adjective"],
+    "definition": "difficult"
+  },
+  {
+    "wikipediaIndex": 618,
+    "kana": "むっつ",
+    "kanji": "六つ",
+    "classification": ["noun"],
+    "definition": "six"
+  },
+  {
+    "wikipediaIndex": 619,
+    "kana": "め",
+    "kanji": "目",
+    "classification": ["noun"],
+    "definition": "eye"
+  },
+  {
+    "wikipediaIndex": 620,
+    "kana": "メートル",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "meter"
+  },
+  {
+    "wikipediaIndex": 621,
+    "kana": "めがね",
+    "kanji": "眼鏡",
+    "classification": ["noun"],
+    "definition": "glasses"
+  },
+  {
+    "wikipediaIndex": 622,
+    "kana": "もう （もう、帰りました）",
+    "kanji": null,
+    "classification": [],
+    "definition": "already/soon/more/again"
+  },
+  {
+    "wikipediaIndex": 623,
+    "kana": "もう （もう一度）",
+    "kanji": null,
+    "classification": [],
+    "definition": "already/soon/more/again"
+  },
+  {
+    "wikipediaIndex": 624,
+    "kana": "もくようび",
+    "kanji": "木曜日",
+    "classification": ["noun"],
+    "definition": "thursday"
+  },
+  {
+    "wikipediaIndex": 625,
+    "kana": "もしもし",
+    "kanji": null,
+    "classification": ["interjection"],
+    "definition": "hello (on phone)"
+  },
+  {
+    "wikipediaIndex": 626,
+    "kana": "もちろん",
+    "kanji": null,
+    "classification": [],
+    "definition": "of course/certainly/naturally"
+  },
+  {
+    "wikipediaIndex": 627,
+    "kana": "もつ",
+    "kanji": "持つ",
+    "classification": ["type I verb"],
+    "definition": "(1) to hold/to carry (2) to possess"
+  },
+  {
+    "wikipediaIndex": 628,
+    "kana": "もっと",
+    "kanji": null,
+    "classification": [],
+    "definition": "more/longer/farther"
+  },
+  {
+    "wikipediaIndex": 629,
+    "kana": "もの",
+    "kanji": "物",
+    "classification": ["noun"],
+    "definition": "thing/object"
+  },
+  {
+    "wikipediaIndex": 630,
+    "kana": "もん",
+    "kanji": "門",
+    "classification": ["noun"],
+    "definition": "gate"
+  },
+  {
+    "wikipediaIndex": 631,
+    "kana": "もんだい",
+    "kanji": "問題",
+    "classification": ["noun"],
+    "definition": "problem/question"
+  },
+  {
+    "wikipediaIndex": 632,
+    "kana": "~や",
+    "kanji": "~屋",
+    "classification": ["suffix"],
+    "definition": "~store"
+  },
+  {
+    "wikipediaIndex": 633,
+    "kana": "やおや",
+    "kanji": "八百屋",
+    "classification": ["noun"],
+    "definition": "greengrocer"
+  },
+  {
+    "wikipediaIndex": 634,
+    "kana": "やさい",
+    "kanji": "野菜",
+    "classification": ["noun"],
+    "definition": "vegetable"
+  },
+  {
+    "wikipediaIndex": 635,
+    "kana": "やさしい",
+    "kanji": "易しい",
+    "classification": ["adjective"],
+    "definition": "easy/plain/simple"
+  },
+  {
+    "wikipediaIndex": 636,
+    "kana": "やすい",
+    "kanji": "安い",
+    "classification": ["adjective"],
+    "definition": "cheap/inexpensive/peaceful/quiet/gossipy/thoughtless"
+  },
+  {
+    "wikipediaIndex": 637,
+    "kana": "やすみ",
+    "kanji": "休み",
+    "classification": ["noun"],
+    "definition": "(1) rest/recess/respite/(2) vacation/holiday/absence/suspension/(3) moulting"
+  },
+  {
+    "wikipediaIndex": 638,
+    "kana": "やすむ",
+    "kanji": "休む",
+    "classification": [],
+    "definition": "to rest/to have a break/to take a day off/to be finished/to be absent/to retire/to sleep"
+  },
+  {
+    "wikipediaIndex": 639,
+    "kana": "やっつ",
+    "kanji": "八つ",
+    "classification": ["noun"],
+    "definition": "eight"
+  },
+  {
+    "wikipediaIndex": 640,
+    "kana": "やま",
+    "kanji": "山",
+    "classification": ["noun"],
+    "definition": "(1) mountain/(2) pile/heap/(3) climax/critical point"
+  },
+  {
+    "wikipediaIndex": 641,
+    "kana": "やる （仕事をやる）",
+    "kanji": null,
+    "classification": ["type I verb"],
+    "definition": "to do/to have sexual intercourse/to kill/to give (to inferiors, animals, etc.)/to dispatch (a letter)/to send/to study/to perform/to play (sports, game)/to have (eat, drink, smoke)/to row (a boat)/to run or operate (a restaurant)"
+  },
+  {
+    "wikipediaIndex": 642,
+    "kana": "ゆうがた",
+    "kanji": "夕方",
+    "classification": [],
+    "definition": "evening"
+  },
+  {
+    "wikipediaIndex": 643,
+    "kana": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "classification": ["noun"],
+    "definition": "post office"
+  },
+  {
+    "wikipediaIndex": 644,
+    "kana": "ゆうべ （’昨晩’の意）",
+    "kanji": null,
+    "classification": [],
+    "definition": "evening"
+  },
+  {
+    "wikipediaIndex": 645,
+    "kana": "ゆうめい",
+    "kanji": "有名",
+    "classification": ["noun"],
+    "definition": "fame"
+  },
+  {
+    "wikipediaIndex": 646,
+    "kana": "ゆき",
+    "kanji": "雪",
+    "classification": ["noun"],
+    "definition": "snow"
+  },
+  {
+    "wikipediaIndex": 647,
+    "kana": "ゆっくり",
+    "kanji": null,
+    "classification": [],
+    "definition": "slowly, at ease"
+  },
+  {
+    "wikipediaIndex": 648,
+    "kana": "ようか",
+    "kanji": "八日",
+    "classification": ["noun"],
+    "definition": "eight days/the eighth (day of the month)"
+  },
+  {
+    "wikipediaIndex": 649,
+    "kana": "ようふく",
+    "kanji": "洋服",
+    "classification": ["noun"],
+    "definition": "Western-style clothes"
+  },
+  {
+    "wikipediaIndex": 650,
+    "kana": "よく （よく行く）",
+    "kanji": null,
+    "classification": [],
+    "definition": "frequently, often"
+  },
+  {
+    "wikipediaIndex": 651,
+    "kana": "よく （よくできる）",
+    "kanji": null,
+    "classification": [],
+    "definition": "nice/properly/well/skilled in"
+  },
+  {
+    "wikipediaIndex": 652,
+    "kana": "よこ",
+    "kanji": "横",
+    "classification": [],
+    "definition": "beside/side/width"
+  },
+  {
+    "wikipediaIndex": 653,
+    "kana": "よっか",
+    "kanji": "四日",
+    "classification": ["noun"],
+    "definition": "four days/the fourth (day of the month)"
+  },
+  {
+    "wikipediaIndex": 654,
+    "kana": "よっつ",
+    "kanji": "四つ",
+    "classification": ["noun"],
+    "definition": "four"
+  },
+  {
+    "wikipediaIndex": 655,
+    "kana": "よぶ",
+    "kanji": "呼ぶ",
+    "classification": ["type I verb"],
+    "definition": "to call out/to invite"
+  },
+  {
+    "wikipediaIndex": 656,
+    "kana": "よむ",
+    "kanji": "読む",
+    "classification": ["type I verb"],
+    "definition": "to read"
+  },
+  {
+    "wikipediaIndex": 657,
+    "kana": "よる",
+    "kanji": "夜",
+    "classification": ["noun"],
+    "definition": "evening/night"
+  },
+  {
+    "wikipediaIndex": 658,
+    "kana": "らいげつ",
+    "kanji": "来月",
+    "classification": ["noun"],
+    "definition": "next month"
+  },
+  {
+    "wikipediaIndex": 659,
+    "kana": "らいしゅう",
+    "kanji": "来週",
+    "classification": ["noun"],
+    "definition": "next week"
+  },
+  {
+    "wikipediaIndex": 660,
+    "kana": "らいねん",
+    "kanji": "来年",
+    "classification": ["noun"],
+    "definition": "next year"
+  },
+  {
+    "wikipediaIndex": 661,
+    "kana": "ラジオ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "radio"
+  },
+  {
+    "wikipediaIndex": 662,
+    "kana": "りっぱ",
+    "kanji": null,
+    "classification": ["adjective"],
+    "definition": "splendid/fine/handsome/elegant/imposing/prominent/legal/legitimate"
+  },
+  {
+    "wikipediaIndex": 663,
+    "kana": "りゅうがくせい",
+    "kanji": "留学生",
+    "classification": ["noun"],
+    "definition": "overseas student"
+  },
+  {
+    "wikipediaIndex": 664,
+    "kana": "りょうしん",
+    "kanji": "両親",
+    "classification": ["noun"],
+    "definition": "parents/both parents"
+  },
+  {
+    "wikipediaIndex": 665,
+    "kana": "りょうり",
+    "kanji": "料理",
+    "classification": ["noun"],
+    "definition": "cooking/cookery/cuisine"
+  },
+  {
+    "wikipediaIndex": 666,
+    "kana": "りょこう",
+    "kanji": "旅行",
+    "classification": ["noun"],
+    "definition": "travel/trip"
+  },
+  {
+    "wikipediaIndex": 667,
+    "kana": "れい",
+    "kanji": "零",
+    "classification": ["noun"],
+    "definition": "zero/nought"
+  },
+  {
+    "wikipediaIndex": 668,
+    "kana": "れいぞうこ",
+    "kanji": "冷蔵庫",
+    "classification": ["noun"],
+    "definition": "refrigerator"
+  },
+  {
+    "wikipediaIndex": 669,
+    "kana": "レコード",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "record"
+  },
+  {
+    "wikipediaIndex": 670,
+    "kana": "レストラン",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "restaurant"
+  },
+  {
+    "wikipediaIndex": 671,
+    "kana": "れんしゅう",
+    "kanji": "練習",
+    "classification": ["noun"],
+    "definition": "practice"
+  },
+  {
+    "wikipediaIndex": 667,
+    "kana": "れい",
+    "kanji": "零",
+    "classification": ["noun"],
+    "definition": "zero/nought"
+  },
+  {
+    "wikipediaIndex": 668,
+    "kana": "れいぞうこ",
+    "kanji": "冷蔵庫",
+    "classification": ["noun"],
+    "definition": "refrigerator"
+  },
+  {
+    "wikipediaIndex": 669,
+    "kana": "レコード",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "record"
+  },
+  {
+    "wikipediaIndex": 670,
+    "kana": "レストラン",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "restaurant"
+  },
+  {
+    "wikipediaIndex": 671,
+    "kana": "れんしゅう",
+    "kanji": "練習",
+    "classification": ["noun"],
+    "definition": "practice"
+  },
+  {
+    "wikipediaIndex": 672,
+    "kana": "ろく",
+    "kanji": "六",
+    "classification": ["noun"],
+    "definition": "six"
+  },
+  {
+    "wikipediaIndex": 673,
+    "kana": "ワイシャツ",
+    "kanji": null,
+    "classification": ["noun"],
+    "definition": "\"Y shirt\", business shirt"
+  },
+  {
+    "wikipediaIndex": 674,
+    "kana": "わかい",
+    "kanji": "若い",
+    "classification": ["adjective"],
+    "definition": "young"
+  },
+  {
+    "wikipediaIndex": 675,
+    "kana": "わかる",
+    "kanji": "分かる",
+    "classification": ["type I verb"],
+    "definition": "to be understood"
+  },
+  {
+    "wikipediaIndex": 676,
+    "kana": "わすれる",
+    "kanji": "忘れる",
+    "classification": ["type I verb"],
+    "definition": "to forget"
+  },
+  {
+    "wikipediaIndex": 677,
+    "kana": "わたくし",
+    "kanji": "私",
+    "classification": ["pronoun"],
+    "definition": "I"
+  },
+  {
+    "wikipediaIndex": 678,
+    "kana": "わたし",
+    "kanji": "私",
+    "classification": ["pronoun"],
+    "definition": "I"
+  },
+  {
+    "wikipediaIndex": 679,
+    "kana": "わたす",
+    "kanji": "渡す",
+    "classification": ["type I verb"],
+    "definition": "to pass over, to hand over"
+  },
+  {
+    "wikipediaIndex": 680,
+    "kana": "わたる",
+    "kanji": "渡る",
+    "classification": ["type I verb"],
+    "definition": "to cross over/to go across"
+  },
+  {
+    "wikipediaIndex": 681,
+    "kana": "わるい",
+    "kanji": "悪い",
+    "classification": ["adjective"],
+    "definition": "bad/inferior"
+  }
+]
